@@ -5,7 +5,7 @@ desc: "Getting legacy code repos ready for students to start work"
 
 Older info: <https://foo.cs.ucsb.edu/56wiki/index.php/Curation>
 
-Basic steps to doing initia
+Basic steps to doing initial curation:
 
 * Clone the repo.
 * Review the README.md. 
@@ -118,7 +118,7 @@ Note that you must specify: <code>./lib/junit-4.8.2.jar</code> or <code>lib/juni
 Note that the first two are relative to the current directory (the base of your github repo where the build.xml file lives), while the latter is an absolute path based at the root of the file system.  It is unlikely that there is a lib subdirectory at the root of the file system containing the JUnit jar file.
 
 
-== Removing unnecessary tasks ==
+# Removing unnecessary tasks
 
 There may be a variety of tasks in the build.xml files left over from the Mantis days that are no longer necessary.    These tasks should be removed from the build.xml files as they are encountered.
 
