@@ -1,0 +1,10 @@
+
+*.mw
+*~
+.bundle
+vendor
+_site/
+.sass-cache/
+.jekyll-metadata
+
+.DS_Store
