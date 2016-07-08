@@ -18,6 +18,10 @@ The naming convention is as follows.  Put the githubids in alphabetical order.
 * FEEDBACK_githubid1_githubid2_githubid3 for trios
 * FEEDBACK_githubid for individuals
 
+Consult the list of legacy code project assignments&mdash;for example, for M16, it is this list:
+
+* [lab/lab02/repo_list.md](https://UCSB-CS56-M16.github.io/lab/lab02/repo_list/)
+ 
 For each pair,trio,individual: create a private repo with this name.
 * Initialize it with a README.md.  
 * You don't need a .gitignore or a LICENSE file.
