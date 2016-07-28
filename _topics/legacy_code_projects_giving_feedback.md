@@ -31,17 +31,17 @@ Example:
 
 Pull request: https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/pull/12
 
-* [Issue: #7](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/42) Change the menu 
+* [Issue: #7](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/7) Change the menu 
 
 Original Estimate: 250.  Student Requesting 300 in comment.
 
 
-* [Issue: #11 Update JUnit tests](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/97)
+* [Issue: #97 Update JUnit tests](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/97)
 
 Estimate: 200 
 
 
-* [Issue #26: Change Help Menu to Make it Non-Editable](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/25) 
+* [Issue #26: Change Help Menu to Make it Non-Editable](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/26) 
 
 Estimate: 50
 ```
