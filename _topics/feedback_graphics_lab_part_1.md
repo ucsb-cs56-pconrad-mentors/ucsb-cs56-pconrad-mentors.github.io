@@ -10,7 +10,7 @@ For the feedback repo for [lab06 from M16](https://ucsb-cs56-m16.github.io/lab/l
 
 Step 1:
 
-In the students's [individual FEEDBACK_githubid repo](), create a section called "lab06 feedback" 
+In the students's [individual FEEDBACK_githubid repo](/topics/create_feedback_repo/), create a section called "lab06 feedback" 
 
 In that section, copy paste the following text below (Sample Rubric as Github Flavored Markdown Table).
 
