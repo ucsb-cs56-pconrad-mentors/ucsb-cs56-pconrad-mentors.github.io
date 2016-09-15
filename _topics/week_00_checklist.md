@@ -11,11 +11,14 @@ desc: "Tasks for Mentors, TAs, Instructors before quarter starts"
 
 3.  Instructor creates slack channel, cs56-qxx-team (qxx is F16, F17, W17, etc.).   Adds all mentors to slack channel.
 
-4.   Instructor adds mentors as owners on github orgs:
-    * <https://github.com/orgs/ucsb-cs56-pconrad-mentors/people>
-    * <https://github.com/orgs/ucsb-cs56-pconrad/people> 
-    * <https://github.com/orgs/UCSB-CS56-Projects/people> 
-    * <https://github.com/orgs/ucsb-cs56-f16/people> (substituting current qtr in place of f16)
+4.   Instructor adds mentors as owners on github orgs
+
+# Github orgs that mentors should be added to:
+
+* <https://github.com/orgs/ucsb-cs56-pconrad-mentors/people>
+* <https://github.com/orgs/ucsb-cs56-pconrad/people> 
+* <https://github.com/orgs/UCSB-CS56-Projects/people> 
+* <https://github.com/orgs/ucsb-cs56-f16/people> (substituting current qtr in place of f16)
 
 
 
