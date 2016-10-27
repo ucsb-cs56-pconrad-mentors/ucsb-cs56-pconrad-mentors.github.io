@@ -22,8 +22,10 @@ To create these repos:
 
 * Go to the web page of the organization for the course
     * For example, for M16, it is <https://github.com/UCSB-CS56-M16>
+    * For example, for F16, it is <https://github.com/UCSB-CS56-F16>
 * Consult the list of legacy code project assignments
     * For example, for M16 it is: [lab/lab02/repo_list.md](https://UCSB-CS56-M16.github.io/lab/lab02/repo_list/)
+    * For example, for F16 it is the : [Project Assignments Page](https://ucsb-cs56-f16.github.io/info/projects/)
 * For each pair,trio,individual: create a private repo with this name.
     * Initialize it with a README.md.  
     * You don't need a .gitignore or a LICENSE file.
