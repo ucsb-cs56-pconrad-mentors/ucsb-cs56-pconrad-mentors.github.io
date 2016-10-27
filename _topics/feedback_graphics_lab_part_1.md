@@ -1,12 +1,15 @@
 ---
-topic: "Feedback: graphics lab part 1"
+topic: "Feedback: graphics lab part 1 (F16 lab04)"
 desc: "Mentor, TA and Instructor guidance on evaluating graphics lab part 1"
 ---
 
 
-For the feedback repo for [lab06 from M16](https://ucsb-cs56-m16.github.io/lab/lab06/), follow the instructions here:
+These are instructios for the feedback repo for:
 
-# HOW TO DEAL WITH PULL REQUESTS (as a moderator) for lab06
+* [lab06 from M16](https://ucsb-cs56-m16.github.io/lab/lab06/)
+* [lab04 from MF6](https://ucsb-cs56-f16.github.io/lab/lab04/)
+
+# HOW TO DEAL WITH PULL REQUESTS (as a moderator) for this lab
 
 Step 1:
 
@@ -21,15 +24,15 @@ THEN the moderator is ready to accept the pull request.  You can also comment on
 
 # Sample Rubric as Github Flavored Markdown Table
 
-Feedback goes into a PRIVATE repo on github.com under the UCSB-CS56-W16 organization, that is shared ONLY with that individual student.        
+Feedback goes into a PRIVATE repo on github.com under the appropriate github organization for the course, that is shared ONLY with that individual student.    See: [Creating Feedback Repos](/topics/create_feedback_repo/)
 
 Normally we do that with scripts, but we might or might not end up doing that by hand this year if it ends up being easier--especially if we can divide up the work and have each of the moderators do that as they handle the feedback for each pull request.  It doesn't take long, and it only has to be done once per student per quarter.
 
-Here's the raw stuff to copy/paste.   Each moderator should copy/paste this into the feedback, and then fill out ONLY the +o-? column, and the comments column.
+Here's the raw stuff to copy/paste.   Each moderator should copy/paste this into the feedback, and then fill out ONLY the `+o-?` column, and the comments column.
 
 to do the grading we need to change the line in the build.xml file that starts with   <property name="studentName" value="edtropiax"/>  to the real student csil username.
 
-** or you can use >> export USER="csilUsername" from the command line to tell ant to access the proper package **
+** or you can use `export USER="csilUsername"` from the command line to tell ant to access the proper package **
 
 Step 3:  The TA or instructor fills in the numbers in the grade column, totals, and posts the grade to Gauchospace.
 
