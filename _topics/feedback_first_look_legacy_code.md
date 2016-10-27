@@ -21,7 +21,7 @@ If they have also made changes that involve changes to code--i.e. fixing things 
 
 # After accepting the pull request
 
-Immediately after accepting it, go into the [feedback repo](/topics/create_feedback_repo/) for that pair and add feedback under a heading for this lab.  (This may be under a heading in the README.md, or in a separate file with the name of the lab in question; this convention is still TBD as of 3:35pm October 27, 2016.  Please resolve this on the slack channel, then update this page accordingly.)
+Immediately after accepting it, go into the [feedback repo](/topics/create_feedback_repo/) for that pair and add feedback under a heading for this lab in the README.md file.
 
 The feedback you should add is this:  Check the items in lab instructions (e.g. * [F16 lab03](https://ucsb-cs56-f16.github.io/lab/lab03/)) .   For each one, did they do it or not?   
 
