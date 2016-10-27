@@ -4,7 +4,7 @@ desc: "How mentors handle the pull requests for F16 lab03"
 example_md_file: "F16_lab03.md"
 ---
 
-# Handling pull request for
+# Handling pull request for first look at legacy code (e.g. F16 lab03)
 
 These instructions pertain to:
 
