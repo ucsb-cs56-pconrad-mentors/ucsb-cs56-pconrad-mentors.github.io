@@ -16,7 +16,7 @@ takes a heavy toll on the TA, Reader and Instructor.
 If students always acted reasonably and responsibly&mdash;or if the number of students were small enough that the number of "exceptions" was managable, these draconian measures would not be needed.   That has not been my experience over
 my experience, though&mdash;and having done this full time since 1997, and at UCSB since 2007, that's a lot of experience.
 
-# Do NOT accept homework except in the class in which it is due.
+# Do NOT accept homework outside of the class in which it is due.
 
 Each homework assignment clearly states, at the top, something like the following (the exact wording may vary from
 quarter-to-quarter, class to class, but it will be something like this)
@@ -30,12 +30,16 @@ class in which it is due, whether early, or late, YOU MUST NOT ACCEPT IT.    Unl
 refuse to accept it, and cite the course policy.     If you accept it, it may be interpreted by the student 
 that they have discharged their responsibility to submit the homework.   If you do make this error, let the instructor know as soon as possible.
 
-# Do NOT accept homework that is handed in during a class other than the one in which it is due.
+# Do NOT accept homework handed in "in the wrong pile"
+
+Related to the previous item...
 
 If you are in charge of processing the "pile" for, say Homework H14, and a student simply "leaves" say, an H13 or H15 paper in the "pile" for H14, the proper response
 is to send a notice to that student (perhaps by private instructor note on Piazza, or an email cc'd to the instructor 
 and other TAs) that you cannot accept their submission because it was not made on the day the assignment was due.  Refer to the policy
-printed on each assignment.   (There are occasional exceptions to this policy, but if/when there are, they will be CLEARLY ANNOUNCED
+printed on each assignment.   
+
+(There are occasional exceptions to this policy, but if/when there are, they will be CLEARLY ANNOUNCED
 by the instructor by Piazza, Gauchospace, Slack, in person, etc.)
 
 It is then up to you what you do with the assignment:
