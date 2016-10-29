@@ -47,3 +47,26 @@ It is then up to you what you do with the assignment:
 that this requires you to keep hold of this paper from a student that violated a course policy, which is an extra administrative burden on you. As a result, you are NOT REQUIRED TO DO THIS.  You *may*, but you don't have to.
 * Or, you may simply discard it.     Certainly on a second offense by the same student, that's a perfectly reasonable thing to do.   This is one of the reasons for cc'ing the instructor, and other TAs and Readers: so that they can check to see if the student is a repeat offender.
 
+# If you will miss a lab/discussion section
+
+If you need to miss lab/discussion section due to illness, professional obligation (e.g. attending a conference, job interview, etc.), then please take responsibility for doing two things:
+
+* Please let the instructor know well in advance
+
+* Please take personal responsibility for arrange coverage by another TA, Reader, or Mentor for the duties that you would have been responsible for.   Offer to compensate your colleague in some way by taking on some of their duties on another occasion (e.g. cover for them when *they* need to miss a lab, or take on some extra share of the grading, code review, etc.)
+
+# At the end of a discussion section, please check in before leaving
+
+Before leaving at the end of a discussion section, check in with the instructor, or if the instructor is not present:
+
+* If you are a mentor, with one of the TAs
+* If you are a TA, with all of the other TAs
+
+The reason to check in is to:
+
+* See if there are any issues that need to be discussed based on what happened during the session
+* Find out if any follow up is needed on anything that arose during lab
+* Ensure that *all* homework papers submitted have been collected and handed off to someone that is taking responsiblity for ensuring that they will be promptly scanned to Gradescope (or otherwise in process to be graded and returned)
+* Ensure thatthe room is tidy, windows are closed, lights are off, and the doors are locked before everyone leaves
+
+I fully appreciate that occasionally some mentors will need to leave early, or "promptly at the ending time" because of some scheduled obligation that immediately follows the end of the discussion section time.   In this case, the appropriate action is to inform the instructor (if present), or if not the TA(s) leading the session, so that they are aware.  In every case, at least one person should be clearly identified as the one taking responsibility for NOT LEAVING until the room is tidy, and secured,  
