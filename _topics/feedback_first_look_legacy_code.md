@@ -19,11 +19,35 @@ If the only change is adding a <tt>{{page.example_md_file}}</tt> file, then just
 
 If they have also made changes that involve changes to code--i.e. fixing things that they might want to get points towards a future lab lab04, then see the page [Feedback on Legacy Code First Deadline](/topics/feedback_legacy_code_first_deadline/) page for more instructions.
 
+
 # After accepting the pull request
 
 Immediately after accepting it, go into the [feedback repo](/topics/create_feedback_repo/) for that pair and add feedback under a heading for this lab in the README.md file.
 
-The feedback you should add is this:  Check the items in lab instructions (e.g. * [F16 lab03](https://ucsb-cs56-f16.github.io/lab/lab03/)) .   For each one, did they do it or not?   
+The feedback you should add is this:  Check the items in lab instructions, for example:
+
+* [F16 lab03](https://ucsb-cs56-f16.github.io/lab/lab03/)
+
+For each one, did they do it or not?   
+
+You should fill in a table such as this one (this is the format that John posted in the general channel on slack on Thu 10/27/2016):
+
+```
+| Item | +o?-  | Poss | Pts | Summary | Comments  
+|------|-------|------|-----|-------------|-----------
+| a    |       |  20  |     | A brief description of the project. | 
+| b    |       |  20  |     | a set of user stories that describe the current software in its current state |
+| c    |       |  20  |     | a brief assessment of whether the software runs. If it runs, briefly describe what it does   |
+| d    |       |  20  |     | a set of user stories (at least 2) about features that COULD be added    |
+| e    |       |  20  |     | An assessment of the current quality of the README.md. What information could be added?    |
+| f    |       |  20  |     | An assessment of the current state of the build.xml file. |
+| g    |       |  20  |     | An assessment of the current “issues”.    |
+| h    |       |  20  |     | A list of additional issues that you may have added, if any  |
+| i    |       |  100 |     | an assessment of the actual code   |
+| j    |       |  40  |     | how is the test coverage?   |
+```
+
+Mentors: You are ONLY to fill in the `+o?-` column, NOT the Pts column.  Repeat: DO NOT FILL IN THE PTS Column.  That is for the TA, Reader or instructor to do.
 
 You are not assigning a "grade", but you are making a check list and commenting on each item and drawing attention to things that are either particularly good, acceptable, or missing or problematic.  Think of it as making a checklist of  +, ok, -.  
 
