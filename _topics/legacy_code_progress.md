@@ -50,14 +50,14 @@ In general, encourage your mentees to be in touch with you, or post on Piazza, i
 Remind them that they can post private messages to you on Piazza.  Remind them they can include, or not include, their instructors,
 their pair partners, etc. on those messages.
 
-# Handling pull request for first look at legacy code (e.g. F16 lab03).
+# Handling pull request for first look at legacy code (e.g. [F16 lab03](http://ucsb-cs56-f16.github.io/lab/lab03/)).
 
 This has been relocated to this page: [feedback_first_look_legacy_code]
 
 
-# Handling pull requests for lab04.
+# Handling pull requests for first round of legacy code work (e.g. [F16 lab05](http://ucsb-cs56-f16.github.io/lab/lab05/)).
 
-For lab04, handling pull requests is a bit more involved.
+For this lab, handling pull requests is a bit more involved.
 
 You should do at least the following due diligence:
 
