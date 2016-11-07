@@ -13,7 +13,7 @@ such as during these labs:
 By the end of the lab meeting where lab04 is introduced, the following should be true:
 
 * You've [created a feedback repo for each of your teams](/topics/creating_feedback_repos/)
-* You've handled the [pull request from lab02](/topics/pull_request_first_look_legacy_code/) and added feedback to their repos for it&mdash;at least as far as you can given their state of completion.
+* You've handled the [pull request from their first look at legacy code lab](/topics/pull_request_first_look_legacy_code/) and added feedback to their repos for it&mdash;at least as far as you can given their state of completion.
 * You've communicated with each of your mentees about their labs for completion for lab04, and you've recorded some feedback on that in their feedback repo.
 
 More on each of these items below.
