@@ -3,7 +3,7 @@ topic: "Legacy Code Projects: Giving Feedback"
 desc: "Mentor, TA and Instructor guidance on evaluating legacy code work"
 ---
 
-Once you have [created a feedback repo] for each individual, pair, or team working on a legacy code project, you'll want to
+Once you have [created a feedback repo](/topics/create_feedback_repo/) for each individual, pair, or team working on a legacy code project, you'll want to
 put something in that repo.   The guidelines below explain what to do.
 
 # Mentors: Do a review (but NOT grading)
