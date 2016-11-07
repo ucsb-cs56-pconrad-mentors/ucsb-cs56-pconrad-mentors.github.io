@@ -4,9 +4,11 @@ desc: "What mentors should be doing while students are assigned to work on legac
 ---
 
 This article describes what mentors should be doing during the time that students are assigned to work on legacy code, 
-such as during this lab from M16:
+such as during these labs:
 
 * [UCSB CS56 M16 lab04](http://ucsb-cs56-m16.github.io/lab/lab04/)
+* [UCSB CS56 F16 lab05](http://ucsb-cs56-f16.github.io/lab/lab05/)
+
 
 By the end of the lab meeting where lab04 is introduced, the following should be true:
 
