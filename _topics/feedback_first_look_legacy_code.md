@@ -17,7 +17,7 @@ To decide whether to accept the pull request for the legacy code code review is 
 
 If the only change is adding a <tt>{{page.example_md_file}}</tt> file, then just accept the pull request no matter what.
 
-If they have also made changes that involve changes to code--i.e. fixing things that they might want to get points towards a future lab lab04, then see the page [Feedback on Legacy Code First Deadline](/topics/feedback_legacy_code_first_deadline/) page for more instructions.
+If they have also made changes that involve changes to code--i.e. fixing things that they might want to get points towards a future lab lab04, then see the page [Feedback on Legacy Code Progress](/topics/legacy_code_progress/) page for more instructions.
 
 
 # After accepting the pull request
