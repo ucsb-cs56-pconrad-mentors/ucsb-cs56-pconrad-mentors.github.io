@@ -115,6 +115,35 @@ Here's how grading works for TA/Readers/Instructors:
     
 2. In the feedback repo, near the bottom, add a section "Points awarded by instructors/TAs"
     * Here, just make a running tally of the points added into proj1, proj2, proj3, proj4.  
-    * This section should answer the question: the 250 points in proj1, and the 100 points in proj2, where do they come from?
+    * This section should answer the question: the 250 points in proj1, and the 100 points in proj2, where do they come from? (See example below).
+    
+3.  Record or update the current point total for proj1, proj2, proj3, or proj4 in Gauchospace.
+    
+```
+# Points awarded by TA/Instructor
+
+## proj1
+
+* 200: all 200 points from issue #7
+* 50: first 50 of 150 points for issue #8
+
+Total: 250
+
+## proj2
+
+* 100: last 100 points of 150 for issue #8.
+
+Total: 100
+
+## proj3
+
+no points awarded yet
+
+## proj4
+
+no points awarded yet
+
+```
 
 
+    
