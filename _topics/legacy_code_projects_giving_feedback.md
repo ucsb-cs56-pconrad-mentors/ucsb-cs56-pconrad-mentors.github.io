@@ -6,6 +6,10 @@ pre_legacy_lab: "lab03"
 TA_reader_instructor_initials: "N.B., M.Z., J.C., or P.C."
 ---
 
+<div style="display:none">
+https://ucsb-cs56-pconrad-mentors.github.io/topicslegacy_code_projects_giving_feedback
+</div>
+
 # Outline of the process
 
 Here is an outline of the roles and responsibilities for grading of legacy code work.
