@@ -1,5 +1,5 @@
 ---
-topic: "Legacy Code Roles during Legacy Code work"
+topic: "Mentor Roles during Legacy Code work"
 desc: "What mentors should be doing while students are assigned to work on legacy code"
 ---
 
