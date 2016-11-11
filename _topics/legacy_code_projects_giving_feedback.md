@@ -5,6 +5,17 @@ first_legacy_lab: "lab05"
 pre_legacy_lab: "lab03"
 ---
 
+# Outline of the process
+
+Here is an outline of the roles and responsibilities for grading of legacy code work.
+
+* The <b>students</b> will submit their work by making pull requests that resolve issues.  
+    * This is the one and only way to submit work for the legacy code labs.
+* The <b>mentors</b> are responsible for handling the pull requests, and putting information in the feedback repos.
+* The <b>TAs and Readers</b>, as a team, under the supervision of the <b>instructor</b> are responsible for grading. 
+
+# Mentors: Feedback on Pull Requests and Closed Issues
+
 Once you have [created a feedback repo](/topics/create_feedback_repo/) for each individual, pair, or team working on a legacy code project, you'll want to
 put something in that repo.   The guidelines below explain what to do.
 
@@ -83,11 +94,14 @@ If the pull request does in fact improve the code, and does not make anything wo
 If you do NOT think you can accept the pull request, then the sooner you indicate this, and the specific concerns you have, the better.  The worst situation is to end up at the end of the course with three dozen unresolved pull requests across 15 repos.   Please don't let that happen!   Deal with them as soon as you can!
   
 
+
 # TA/Instructors: Do the grading 
 
-* The students don't submit anything but pull requests that resolve issues. 
-* The mentors are responsible for handling the pull requests, and putting information in the feedback repos.
-* TAs are responsible for making a sweep through the feedback repos, and as they see information about closed issues, making an independent judgment about each case.  If you see that the issue is closed, and you are satisfied with the point value assigned, then do these two things:
+Here's how grading works for TA/Readers/Instructors:
+
+* Periodically, making a sweep through the feedback repos.
+* As you see information about closed issues, make an independent judgment about each case.  
+* As a TA/Reader doing grading, if/when, you see that the issue is closed, and you are satisfied with the point value assigned, then do these two things:
 
 1. NOTE that you have awarded points in the FEEDBACK repo.  
     * This note should have your initials (P.C., K.D., H.J. or R.J.), i.e initials of an instructor or a TA
