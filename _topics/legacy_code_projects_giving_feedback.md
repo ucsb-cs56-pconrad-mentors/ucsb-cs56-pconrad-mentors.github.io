@@ -1,21 +1,31 @@
 ---
 topic: "Legacy Code Projects: Giving Feedback"
 desc: "Mentor, TA and Instructor guidance on evaluating legacy code work"
+first_legacy_lab: "lab05"
+pre_legacy_lab: "lab03"
 ---
 
 Once you have [created a feedback repo](/topics/create_feedback_repo/) for each individual, pair, or team working on a legacy code project, you'll want to
 put something in that repo.   The guidelines below explain what to do.
 
-# Mentors: Do a review (but NOT grading)
+# Mentors: Before Writing your Feedback
+
+You should do at least the following due diligence:
+
+* Clone their repo (not the UCSB-CS56-Projects one, but their fork of it), yourself, and try compiling, running, etc.
+* Note any problems you encounter.
+* Check which issues the students claim to be closing with the pull request.  See if you are satisfied that the issue is resolved. IF NOT, THEN REOPEN THE ISSUE WITH FEEDBACK.  
+* In your "public" feedback, i.e. the feedback in the issue itself, be VERY DIPLOMATIC and VERY FACE SAVING. Make only factual statements.   If there is anything too harsh or embarassing, put it in the PRIVATE feedback repo, and just make reference to that in the issue comments. For example: "Pull request 7 does not completely resolve issue 11, so I am reopening it. In particular, the bug when you click on the foobar button still seems to be present. See the private feedback repo for more details."  
+* In the private feedback repo, you could say things like that are more critical: "We discussed structuring the code like x, but it appears you did not follow my advice. I wonder whether you may like to fix some of the indentation and remove some of the seemingly irrelevant comments that pertain to code that has already been removed."  Even there, try to practice diplomacy.
+
+# Mentors: Writing Feedback (but NOT grading)
 
 The first thing to do is to put in a heading appropriate to the "round" of work that the students did.  
 List it as "Mentor evaluation for..." with your name in parens.
 
 For example:
 
-```
-# Mentor evaluation for lab04: first round of legacy code work  (Chris Helpfulperson)
-```
+<tt># Mentor evaluation for {{page.first_legacy_lab}}: first round of legacy code work  (Chris Helpfulperson) </tt>
 
 Then, under that heading, list the issues that the students worked on.  It is helpful if you can:
 
@@ -48,7 +58,6 @@ Estimate: 50
 
 Then, under each issue, put some comments to help guide the TA/Instructor that will do the actual grading.  
 
-* Actually clone the repo, and run the code.  See whether the code works.
 * If there are any bugs that you find, see whether the bugs were there in the code BEFORE the students worked on it. If the 
    bug is a NEW bug, that's something you'll want to mention.
 * Look at the "diff" provided in the pull request.  Look at the code.  Observe whether the code looks well written,
@@ -64,18 +73,21 @@ Then, under each issue, put some comments to help guide the TA/Instructor that w
     * The code is better structured (or: more fragmented)
     * The test coverage is improved (or: more classes were added, but without any test coverage)
     * etc.
+* If issues are closed successfully, then note this in the feedback repo under the {{page.first_legacy_lab}} section (even if the students did this as part of a pull request for {{page.pre_legacy_lab}}.)
 
 Those things all send a signal to the TA/Instructor of what to look for, but stop short of recommending a specific action.
 If you have any questions on this, please consult your instructor.
+
+If the pull request does in fact improve the code, and does not make anything worse, then *accept the pull request* and note that you did so in the feedback repo.  Delay accepting the pull request ONLY if/when there is some serious problem with the code the students have written.    
+
+If you do NOT think you can accept the pull request, then the sooner you indicate this, and the specific concerns you have, the better.  The worst situation is to end up at the end of the course with three dozen unresolved pull requests across 15 repos.   Please don't let that happen!   Deal with them as soon as you can!
   
 
 # TA/Instructors: Do the grading
 
 Insert a new section with a heading such as this (with your name in parens).
 
-```
-# TA/Instructor Grading for lab04: first round of legacy code work  (P. H. Diddy )
-```
+<tt># TA/Instructor Grading for {{page.first_legacy_lab}}: first round of legacy code work  (P. H. Diddy ) </tt>
 
 Copy paste the list of issues, and then just indiciate the points awarded for each.   If the points are the standard amount that was 
 requested, no further explanation is needed.  If you award fewer points, or extra points, provide a brief explanation.
