@@ -83,13 +83,19 @@ If the pull request does in fact improve the code, and does not make anything wo
 If you do NOT think you can accept the pull request, then the sooner you indicate this, and the specific concerns you have, the better.  The worst situation is to end up at the end of the course with three dozen unresolved pull requests across 15 repos.   Please don't let that happen!   Deal with them as soon as you can!
   
 
-# TA/Instructors: Do the grading
+# TA/Instructors: Do the grading 
 
-Insert a new section with a heading such as this (with your name in parens).
+* The students don't submit anything but pull requests that resolve issues. 
+* The mentors are responsible for handling the pull requests, and putting information in the feedback repos.
+* TAs are responsible for making a sweep through the feedback repos, and as they see information about closed issues, making an independent judgment about each case.  If you see that the issue is closed, and you are satisfied with the point value assigned, then do these two things:
 
-<tt># TA/Instructor Grading for {{page.first_legacy_lab}}: first round of legacy code work  (P. H. Diddy ) </tt>
-
-Copy paste the list of issues, and then just indiciate the points awarded for each.   If the points are the standard amount that was 
-requested, no further explanation is needed.  If you award fewer points, or extra points, provide a brief explanation.
+1. NOTE that you have awarded points in the FEEDBACK repo.  
+    * This note should have your initials (P.C., K.D., H.J. or R.J.), i.e initials of an instructor or a TA
+    * The commit should also be done by the github id of an instructor or TA
+    * It should indicate how many points were awarded.
+    
+2. In the feedback repo, near the bottom, add a section "Points awarded by instructors/TAs"
+    * Here, just make a running tally of the points added into proj1, proj2, proj3, proj4.  
+    * This section should answer the question: the 250 points in proj1, and the 100 points in proj2, where do they come from?
 
 
