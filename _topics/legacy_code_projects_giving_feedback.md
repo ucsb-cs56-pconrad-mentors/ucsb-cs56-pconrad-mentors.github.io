@@ -109,7 +109,7 @@ Here's how grading works for TA/Readers/Instructors:
 * As a TA/Reader doing grading, if/when, you see that the issue is closed, and you are satisfied with the point value assigned, then do these two things:
 
 1. NOTE that you have awarded points in the FEEDBACK repo.  
-    * This note should have your initials ({{page.ta_reader_instructor_initials}}), i.e initials of an instructor or a TA
+    * This note should have your initials ({{page.TA_reader_instructor_initials}}), i.e initials of an instructor or a TA
     * The commit should also be done by the github id of an instructor or TA
     * It should indicate how many points were awarded.
     
