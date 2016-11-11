@@ -3,6 +3,11 @@ topic: "Legacy Code Roles during Legacy Code work"
 desc: "What mentors should be doing while students are assigned to work on legacy code"
 ---
 
+<div style="display:none">
+https://ucsb-cs56-pconrad-mentors.github.io/topics/mentor_roles_during_legacy_code_work
+</div>
+
+
 This article describes what mentors should be doing during the time that students are assigned to work on legacy code, 
 such as during these labs:
 
