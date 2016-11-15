@@ -23,17 +23,12 @@ _Provide meaningful feedback to mentees:_ Unlike TAs, readers, and professors, m
 
 ## Duties:
 
-_Project manager / scrum master work duties:_ 
-
-As team leaders, it is important mentors work closely with teams to ensure they have everyting they need to complete the work for the quarter and succeed
+_Project manager / scrum master work duties: As team leaders, it is important mentors work closely with teams to ensure they have everyting they need to complete the work for the quarter and succeed_
   * Help Students plan sprints and follow through on those plans
   * Discuss with team their expectations and goals for the quarter   
   * Check in with team frequently 
    
-_Code reviews:_ 
-
-As the team leaders, mentors know the most about the progress of their teams’ projects from start to finish and as such mentor feedback is very important.
-  * Detailed instructions for lab reviewed can be found at: https://github.com/UCSB-CS56-W16/W16-lab04/wiki
+_Code reviews: As the team leaders, mentors know the most about the progress of their teams’ projects from start to finish and as such mentor feedback is very important. Detailed instructions for lab reviewed can be found at:_ https://github.com/UCSB-CS56-W16/W16-lab04/wiki
   * Help your teams improve on their code based on how code is evaluated in the real world. 
   * Give in-depth reviews. Even if they have working code that satisfies the lab requirements, there may still be room for improvement that they were unaware of.
   * Give evaluations based on the purpose of the code and project specifications, not solely based on the grading rubric.
