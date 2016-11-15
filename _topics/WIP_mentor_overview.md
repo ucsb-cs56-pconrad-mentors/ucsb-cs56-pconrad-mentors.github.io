@@ -23,13 +23,13 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
 
 3. Duties:
 
-  * Project manager / scrum master work duties:
-    * Help Students plan sprints
+  * _Project manager / scrum master work duties:_ As team leaders, it is important mentors work closely with teams to ensure they have everyting they need to complete the work for the quarter and succeed
+    * Help Students plan sprints and follow through on those plans
     * Discuss with team their expectations and goals for the quarter   
-    * Check in with team frequently   
-    * Ensure plans are being followed and work with team to ensure they have all that they need ready to complete the work that session
+    * Check in with team frequently 
    
-  * Code reviews
+  * _Code reviews:_ As the team leaders, mentors know the most about the progress of their teams’ projects from start to finish and as such mentor feedback is very important.
+    * Detailed instructions for lab reviewed can be found at: https://github.com/UCSB-CS56-W16/W16-lab04/wiki
     * Help your teams improve on their code based on how code is evaluated in the real world. 
     * Give in-depth reviews. Even if they have working code that satisfies the lab requirements, there may still be room for improvement that they were unaware of.
     * Give evaluations based on the purpose of the code and project specifications, not solely based on the grading rubric.
@@ -59,7 +59,7 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
       * If yes, fill in any new issues that sound interesting and mark it ready in the project description at the top of the repository (ie W16 - ready)
       * If no, then clean up anything from previous year and mark repository as not ready (ie W16 - not ready)
     * Look for additional issues that can be created to improve the code, whether it is improving the implementation/code structure or enhancing a user experience
-    * Estimate how much points an issue is worth and assign it to new issues created. See Points Estimates.
+    * Estimate how much points an issue is worth and assign it to new issues created.
 
   * Generation of new repositories
     * Transition from Java Swing apps to Java web apps
@@ -68,29 +68,15 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
     * Although there is no corresponding introductory lab, if any students have Android application programming experience, they can take any existing project and translate it into an Android application. They cannot, however, create an iOS application because the course is designed to teach object oriented programming in Java.
     * New apps can be started for the students to work on.
     * To continue with the legacy code theme, and due to the complexities of web / Android application frameworks, the mentors should start the project repository.
+    
+  * Point estimates
+    * Points are estimated at 100 points is roughly 3 hours of work. It is not a hard line in any way. Working on a bug for 3 hours, while still a good learning experience, wouldn't count the same as 3 hours of coding that perhaps created a menu screen, for example.
+Point estimates are designed to be a guideline for amount work completed and to set a reasonable goal for students
   
 ```
 Moderators / Mentors
 Leadership
 
-
-
-
-
-Point estimates
-Points are estimated at 100 points is roughly 2 hours of work
-Not a hard line in any way. Working on a bug for 2 hours, while still a good learning experience, wouldn't count the same as 2 hours of coding that perhaps created a menu screen, for example
-Point estimates are subjective by nature, but are designed to be a guideline for amount work completed and to set a reasonable goal for
-Code Reviews
-As the team leaders, mentors know the most about the progress of their teams’ projects from start to finish and as such mentor feedback is very important
-Any lab reviewed by a mentor will involve several steps:
-Detailed instructions can be found at: https://github.com/UCSB-CS56-W16/W16-lab04/wiki
-First, if the individual or team does not yet have a feedback repository on the current CS56 organization* then create one for them
-*not the CS56 organization with all the project repositories, but for the current quarter
-Create a team for the student/pair/group and add them to the repository with read only access to they may view but not modify your code reviews
-Then, create a feedback markdown file for the current code to be reviewed 
-i.e. lab04_feedback.md
-The rubric that goes in the code review feedback readme is based off of the grading rubric just as a way to ensure they completed everything required. Mentor feedback should check that these requirements are fulfilled, but more importantly look through the code to give meaningful feedback in the comment section pertaining to coding style, efficiency, etc as you see fit.
 Weekly Breakdown
 Week 1
 Meet with professor, TAs, other mentors to get to know everyone and discuss expectations for the quarter
