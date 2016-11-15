@@ -23,22 +23,22 @@ _Provide meaningful feedback to mentees:_ Unlike TAs, readers, and professors, m
 
 ## Duties:
 
-_Project manager / scrum master work duties: As team leaders, it is important mentors work closely with teams to ensure they have everyting they need to complete the work for the quarter and succeed_
+Project manager / scrum master work duties: _As team leaders, it is important mentors work closely with teams to ensure they have everyting they need to complete the work for the quarter and succeed_
   * Help Students plan sprints and follow through on those plans
   * Discuss with team their expectations and goals for the quarter   
   * Check in with team frequently 
    
-_Code reviews: As the team leaders, mentors know the most about the progress of their teams’ projects from start to finish and as such mentor feedback is very important. Detailed instructions for lab reviewed can be found at:_ https://github.com/UCSB-CS56-W16/W16-lab04/wiki
+Code reviews: _As the team leaders, mentors know the most about the progress of their teams’ projects from start to finish and as such mentor feedback is very important. Detailed instructions for lab reviewed can be found at:_ https://github.com/UCSB-CS56-W16/W16-lab04/wiki
   * Help your teams improve on their code based on how code is evaluated in the real world. 
   * Give in-depth reviews. Even if they have working code that satisfies the lab requirements, there may still be room for improvement that they were unaware of.
   * Give evaluations based on the purpose of the code and project specifications, not solely based on the grading rubric.
   * Facilitate good coding practices that can continue to be built on to develop into something better.  
     
-_Lab preparation:_
+Lab preparation:
   * Look over labs material, be prepared to answer questions
   * Do the lab if unfamiliar with concepts due to not remembering material or have not done it before
     
-_Lab time:_
+Lab time:
   * Arrive a little early if possible
   * Sit at the head of a row on furthest end of the lab by the windows
   * If you aren’t leading a row of students during a lab session, find a free seat near the front or back and be available to help other teams
@@ -47,29 +47,29 @@ _Lab time:_
      * Give students the opportunity to ask any last minute questions about the previous week’s lab. Students are given until the following week to complete a lab.
   * Encourage students not to fall behind. The previous lab should be mostly completed before they come to lab. 
       
-_Curation of Legacy Code repositories:_
-    * Look through projects in organization: https://github.com/UCSB-CS56-Projects
-    * Update basic information from previous year
-    * Copy any descriptions from the previous mentors and save it in the README 
-    * Look through previous legacy work and merge any pull requests that look like they contribute to the project going forward
-    * Make sure to run the code and make note of any incomplete or non-working features. These can be used as issues for students to work on, or it may be a sign that the code should not be merged but rather scraped
-    * Most often, the code can be used going forward. The only time previous legacy code is rejected is if it really does not work well with future plans or severely broke the project in some way
-    * Decide if repository should be assigned or not
-      * If yes, fill in any new issues that sound interesting and mark it ready in the project description at the top of the repository (ie W16 - ready)
-      * If no, then clean up anything from previous year and mark repository as not ready (ie W16 - not ready)
-    * Look for additional issues that can be created to improve the code, whether it is improving the implementation/code structure or enhancing a user experience
-    * Estimate how much points an issue is worth and assign it to new issues created.
+Curation of Legacy Code repositories:
+  * Look through projects in organization: https://github.com/UCSB-CS56-Projects
+  * Update basic information from previous year
+  * Copy any descriptions from the previous mentors and save it in the README 
+  * Look through previous legacy work and merge any pull requests that look like they contribute to the project going forward
+  * Make sure to run the code and make note of any incomplete or non-working features. These can be used as issues for students to work on, or it may be a sign that the code should not be merged but rather scraped
+  * Most often, the code can be used going forward. The only time previous legacy code is rejected is if it really does not work well with future plans or severely broke the project in some way
+  * Decide if repository should be assigned or not
+    * If yes, fill in any new issues that sound interesting and mark it ready in the project description at the top of the repository (ie W16 - ready)
+    * If no, then clean up anything from previous year and mark repository as not ready (ie W16 - not ready)
+  * Look for additional issues that can be created to improve the code, whether it is improving the implementation/code structure or enhancing a user experience
+  * Estimate how much points an issue is worth and assign it to new issues created.
 
-  * Generation of new repositories
-    * Transition from Java Swing apps to Java web apps
-    * Many of the current projects are from many years ago and consist of simple games with oldschool graphics that are not very interesting anymore
-    * With the introduction of the Heroku lab, students can take any existing project and translate it into a Java web application.
-    * Although there is no corresponding introductory lab, if any students have Android application programming experience, they can take any existing project and translate it into an Android application. They cannot, however, create an iOS application because the course is designed to teach object oriented programming in Java.
-    * New apps can be started for the students to work on.
-    * To continue with the legacy code theme, and due to the complexities of web / Android application frameworks, the mentors should start the project repository.
+Generation of new repositories
+  * Transition from Java Swing apps to Java web apps
+  * Many of the current projects are from many years ago and consist of simple games with oldschool graphics that are not very interesting anymore
+  * With the introduction of the Heroku lab, students can take any existing project and translate it into a Java web application.
+  * Although there is no corresponding introductory lab, if any students have Android application programming experience, they can take any existing project and translate it into an Android application. They cannot, however, create an iOS application because the course is designed to teach object oriented programming in Java.
+  * New apps can be started for the students to work on.
+  * To continue with the legacy code theme, and due to the complexities of web / Android application frameworks, the mentors should start the project repository.
     
-  * Point estimates
-    * Points are estimated at 100 points is roughly 3 hours of work. It is not a hard line in any way. Working on a bug for 3 hours, while still a good learning experience, wouldn't count the same as 3 hours of coding that perhaps created a menu screen, for example.
+Point estimates
+  * Points are estimated at 100 points is roughly 3 hours of work. It is not a hard line in any way. Working on a bug for 3 hours, while still a good learning experience, wouldn't count the same as 3 hours of coding that perhaps created a menu screen, for example.
 Point estimates are designed to be a guideline for amount work completed and to set a reasonable goal for students
   
 ```
