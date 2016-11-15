@@ -6,9 +6,10 @@ desc: "Raw notes from J.C.--needs a reformat"
 These are some raw notes from a document by Jenna Cryan.   As time permits, these could be crafted into a more coherent guide for CS56 mentors.
 
 
-```
-Team Leadership for Advanced Applications Programming
+
+#Team Leadership for Advanced Applications Programming
 Expectations
+```
 As a team leader, there are certain expectations of conduct for this course. The main goals are to gain meaningful insight into working as a manager / scrum master while helping students learn about how to work on a project development team. It’s a learning environment for everyone involved, and at any point feel free to discuss anything with the other mentors, the mentor leader ( if there is one ), the TA(s), and especially with the professor. 
 On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Unlike TAs, readers, and professors, mentors do not evaluate the performance of the students in a quantifiable way. Evaluations of student work take place in the form of code reviews when the mentors have the opportunity to provide meaningful feedback on their code. 
 Mentors are responsible for reviewing labs beginning around the fourth week of the quarter. The main bulk of code review comes from the legacy code projects, which the mentors and student teams should be in close contact regarding its progress throughout the quarter.
