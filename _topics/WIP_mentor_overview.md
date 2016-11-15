@@ -58,12 +58,14 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
     * Decide if repository should be assigned or not
       * If yes, fill in any new issues that sound interesting and mark it ready in the project description at the top of the repository (ie W16 - ready)
       * If no, then clean up anything from previous year and mark repository as not ready (ie W16 - not ready)
+    * Look for additional issues that can be created to improve the code, whether it is improving the implementation/code structure or enhancing a user experience
+    * Estimate how much points an issue is worth and assign it to new issues created. See Points Estimates.
 
   * Generation of new repositories
     * Transition from Java Swing apps to Java web apps
     * Many of the current projects are from many years ago and consist of simple games with oldschool graphics that are not very interesting anymore
     * With the introduction of the Heroku lab, students can take any existing project and translate it into a Java web application.
-Although there is no corresponding introductory lab, if any students have Android application programming experience, they can take any existing project and translate it into an Android application. They cannot, however, create an iOS application because the course is designed to teach object oriented programming in Java.
+    * Although there is no corresponding introductory lab, if any students have Android application programming experience, they can take any existing project and translate it into an Android application. They cannot, however, create an iOS application because the course is designed to teach object oriented programming in Java.
     * New apps can be started for the students to work on.
     * To continue with the legacy code theme, and due to the complexities of web / Android application frameworks, the mentors should start the project repository.
   
