@@ -114,11 +114,11 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
   * Then, you should work together to figure out a plan for their first 2 week sprint
 
 **Week 6**
-Check in with progress of legacy code projects
-Possibly rework goals that have been too complex for that team or add complexities to goals that were completed with ease
-Make sure students know that just because something was estimated at a point value doesn’t mean they will necessarily get that many points
-For instance, if they were able to generate a simple GUI for an application that took maybe an hour, they would not receive the same points as someone who dedicates more time into creating something more complex
-Try to encourage students to have a form of working code by the end of the sprint, so they are ready to begin a new sprint for different issues
+
+  * Check in with progress of legacy code projects
+  * Possibly rework goals that have been too complex for that team or add complexities to goals that were completed with ease
+  * Make sure students know that just because something was estimated at a point value doesn’t mean they will necessarily get that many points. For instance, if they were able to generate a simple GUI for an application that took maybe an hour, they would not receive the same points as someone who dedicates more time into creating something more complex
+  * Try to encourage students to have a form of working code by the end of the sprint, so they are ready to begin a new sprint for different issues
 
 **Week 7**
 
@@ -129,10 +129,11 @@ Try to encourage students to have a form of working code by the end of the sprin
   * Should be a similar amount of work as the first sprint, and should result in a working final product that could be demoed at end of quarter
 
 **Week 8**
-Check in with progress of legacy code projects
-Go over code reviews of last sprint with students
-Again, rework any current issues
-Main focus is having a solid working project that satisfies as many of the project specification goals as possible
+
+  * Check in with progress of legacy code projects
+  * Go over code reviews of last sprint with students
+  * Again, rework any current issues
+  * Main focus is having a solid working project that satisfies as many of the project specification goals as possible
 
 **Week 9**
 
