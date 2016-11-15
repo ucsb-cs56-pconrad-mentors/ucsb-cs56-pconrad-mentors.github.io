@@ -23,22 +23,22 @@ _Provide meaningful feedback to mentees:_ Unlike TAs, readers, and professors, m
 
 ## Duties:
 
-Project manager / scrum master work duties: _As team leaders, it is important mentors work closely with teams to ensure they have everyting they need to complete the work for the quarter and succeed_
+*Project manager / scrum master work duties:* _As team leaders, it is important mentors work closely with teams to ensure they have everyting they need to complete the work for the quarter and succeed_
   * Help Students plan sprints and follow through on those plans
   * Discuss with team their expectations and goals for the quarter   
   * Check in with team frequently 
    
-Code reviews: _As the team leaders, mentors know the most about the progress of their teams’ projects from start to finish and as such mentor feedback is very important. Detailed instructions for lab reviewed can be found at:_ https://github.com/UCSB-CS56-W16/W16-lab04/wiki
+*Code reviews:* _As the team leaders, mentors know the most about the progress of their teams’ projects from start to finish and as such mentor feedback is very important. Detailed instructions for lab reviewed can be found at:_ https://github.com/UCSB-CS56-W16/W16-lab04/wiki
   * Help your teams improve on their code based on how code is evaluated in the real world. 
   * Give in-depth reviews. Even if they have working code that satisfies the lab requirements, there may still be room for improvement that they were unaware of.
   * Give evaluations based on the purpose of the code and project specifications, not solely based on the grading rubric.
   * Facilitate good coding practices that can continue to be built on to develop into something better.  
     
-Lab preparation:
+*Lab preparation:*
   * Look over labs material, be prepared to answer questions
   * Do the lab if unfamiliar with concepts due to not remembering material or have not done it before
     
-Lab time:
+*Lab time:*
   * Arrive a little early if possible
   * Sit at the head of a row on furthest end of the lab by the windows
   * If you aren’t leading a row of students during a lab session, find a free seat near the front or back and be available to help other teams
@@ -47,7 +47,7 @@ Lab time:
      * Give students the opportunity to ask any last minute questions about the previous week’s lab. Students are given until the following week to complete a lab.
   * Encourage students not to fall behind. The previous lab should be mostly completed before they come to lab. 
       
-Curation of Legacy Code repositories:
+*Curation of Legacy Code repositories:*
   * Look through projects in organization: https://github.com/UCSB-CS56-Projects
   * Update basic information from previous year
   * Copy any descriptions from the previous mentors and save it in the README 
