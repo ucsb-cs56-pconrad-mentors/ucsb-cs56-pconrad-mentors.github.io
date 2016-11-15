@@ -11,9 +11,7 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
 
 1. Expectations
 
- * Be a team leader:
- 
-   On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Mentors are responsible for reviewing the labs of the students they are mentoring.  
+ * _Be a team leader:_ On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Mentors are responsible for reviewing the labs of the students they are mentoring.  
 
   * Review legacy code projects: 
    
