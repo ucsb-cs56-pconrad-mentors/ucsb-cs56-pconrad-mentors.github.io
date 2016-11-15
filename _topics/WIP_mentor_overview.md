@@ -11,11 +11,10 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
 
 1. Expectations
 
-  Be a team leader: 
-    
-    On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Mentors are responsible for reviewing the labs of the students they are mentoring.  
+ * Be a team leader: 
+    * On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Mentors are responsible for reviewing the labs of the students they are mentoring.  
 
-  Review legacy code projects: The bulk of code review comes from the legacy code projects, which mentors will prepare. Mentors and student teams should be in close contact regarding its progress throughout the quarter
+  * Review legacy code projects: The bulk of code review comes from the legacy code projects, which mentors will prepare. Mentors and student teams should be in close contact regarding its progress throughout the quarter
   
   Provide meaningful feedback to mentees: Unlike TAs, readers, and professors, mentors do not evaluate the performance of the students in a quantifiable way. Mentor evaluations of student work take place in the form of code reviews when the mentors have the opportunity to provide meaningful feedback on student code and habits.
   
