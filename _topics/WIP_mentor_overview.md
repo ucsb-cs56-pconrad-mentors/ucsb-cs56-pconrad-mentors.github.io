@@ -16,13 +16,18 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
   
   Provide meaningful feedback to mentees: Unlike TAs, readers, and professors, mentors do not evaluate the performance of the students in a quantifiable way. Mentor evaluations of student work take place in the form of code reviews when the mentors have the opportunity to provide meaningful feedback on student code and habits.
   
-2. Take Away: The main goals are to gain meaningful insight into working as a manager / scrum master while helping students learn about how to work on a project development team. It’s a learning environment for everyone involved, and at any point feel free to discuss anything with the other mentors, the mentor leader ( if there is one ), the TA(s), and especially with the professor. 
+2. Take Away: 
+   The main goals are to gain meaningful insight into working as a manager / scrum master while helping students learn about how to work on a project development team. It’s a learning environment for everyone involved, and at any point feel free to discuss anything with the other mentors, the mentor leader ( if there is one ), the TA(s), and especially with the professor. 
 
 3. Duties:
   Project manager / scrum master work duties:
+  
     Help Students plan sprints
+    
     Discuss with team their expectations and goals for the quarter
+    
     Check in with team frequently
+    
     Ensure plans are being followed and work with team to ensure they have all that they need ready to complete the work that session
 
   
