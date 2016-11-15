@@ -30,10 +30,10 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
     * Ensure plans are being followed and work with team to ensure they have all that they need ready to complete the work that session
    
   * Code reviews
-    * Main goal is to help team improve
-    * Review should be in depth.  Take the opportunity to inform the student of ways to improve upon their code. Show them how their code would be evaluated in the real world, based on a given project specification, not a grading rubric. This means that even if they have working code that satisfies the lab requirements, there may still be room for improvement that they were unaware of.
-    * The evaluation should be based on the purpose of the code, not the grading rubric.
-    * Secondary goal is to have a project that can continue to develop into something better.  
+    * Help your teams improve on their code based on how code is evaluated in the real world. 
+    * Give in-depth reviews. Even if they have working code that satisfies the lab requirements, there may still be room for improvement that they were unaware of.
+    * Give evaluations based on the purpose of the code and project specifications, not solely based on the grading rubric.
+    * Facilitate good coding practices that can continue to be built on to develop into something better.  
     
   * Lab preparation
     * Look over labs material, be prepared to answer questions
