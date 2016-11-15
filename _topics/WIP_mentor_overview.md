@@ -9,7 +9,7 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
 
 # Team Leadership for Advanced Applications Programming
 
-1. Expectations:
+## Expectations:
 
  * _Be a team leader:_ On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Mentors are responsible for reviewing the labs of the students they are mentoring.  
 
@@ -17,11 +17,11 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
   
   * _Provide meaningful feedback to mentees:_ Unlike TAs, readers, and professors, mentors do not evaluate the performance of the students in a quantifiable way. Mentor evaluations of student work take place in the form of code reviews when the mentors have the opportunity to provide meaningful feedback on student code and habits.
   
-2. Take Away: 
+## Take Away: 
    
    The main goals are to gain meaningful insight into working as a manager / scrum master while helping students learn about how to work on a project development team. It’s a learning environment for everyone involved, and at any point feel free to discuss anything with the other mentors, the mentor leader ( if there is one ), the TA(s), and especially with the professor. 
 
-3. Duties:
+## Duties:
 
   * _Project manager / scrum master work duties:_ As team leaders, it is important mentors work closely with teams to ensure they have everyting they need to complete the work for the quarter and succeed
     * Help Students plan sprints and follow through on those plans
