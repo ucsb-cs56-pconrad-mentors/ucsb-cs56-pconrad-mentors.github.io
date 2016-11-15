@@ -24,30 +24,30 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
 3. Duties:
 
   * Project manager / scrum master work duties:
-  
     * Help Students plan sprints
     * Discuss with team their expectations and goals for the quarter   
     * Check in with team frequently   
     * Ensure plans are being followed and work with team to ensure they have all that they need ready to complete the work that session
    
   * Code reviews
-  
     * Main goal is to help team improve
     * Review should be in depth.  Take the opportunity to inform the student of ways to improve upon their code. Show them how their code would be evaluated in the real world, based on a given project specification, not a grading rubric. This means that even if they have working code that satisfies the lab requirements, there may still be room for improvement that they were unaware of.
     * The evaluation should be based on the purpose of the code, not the grading rubric.
     * Secondary goal is to have a project that can continue to develop into something better.  
- * Lab preparation
+    
+  * Lab preparation
     * Look over labs material, be prepared to answer questions
     * Do the lab if unfamiliar with concepts due to not remembering material or have not done it before
- * Lab time
-Arrive a little early if possible
-Sit at the head of a row on furthest end of the lab by the windows
-If you aren’t leading a row of students during a lab session, find a free seat near the front or back and be available to help other teams
-Oversee team members throughout lab session
-Check in with students first
-Make sure they know what they need to be doing and any deliverables for the week
-Students are given until the following week to complete a lab. This gives them an opportunity to ask any last minute questions about the previous week’s lab.
-Encourage them not to fall behind the previous lab should be mostly completed before. 
+    
+  * Lab time
+    * Arrive a little early if possible
+    * Sit at the head of a row on furthest end of the lab by the windows
+    * If you aren’t leading a row of students during a lab session, find a free seat near the front or back and be available to help other teams
+    * Oversee team members throughout lab session
+      * Check in with students first
+      * Make sure they know what they need to be doing and any deliverables for the week
+      * Students are given until the following week to complete a lab. This gives them an opportunity to ask any last minute questions about the previous week’s lab.
+      * Encourage them not to fall behind the previous lab should be mostly completed before. 
 Legacy Code
 
 
