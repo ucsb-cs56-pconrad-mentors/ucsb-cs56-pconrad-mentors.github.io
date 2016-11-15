@@ -9,7 +9,7 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
 
 # Team Leadership for Advanced Applications Programming
 
-1. Expectations
+1. Expectations:
 
  * _Be a team leader:_ On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Mentors are responsible for reviewing the labs of the students they are mentoring.  
 
@@ -59,7 +59,13 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
       * If yes, fill in any new issues that sound interesting and mark it ready in the project description at the top of the repository (ie W16 - ready)
       * If no, then clean up anything from previous year and mark repository as not ready (ie W16 - not ready)
 
-
+  * Generation of new repositories
+    * Transition from Java Swing apps to Java web apps
+    * Many of the current projects are from many years ago and consist of simple games with oldschool graphics that are not very interesting anymore
+    * With the introduction of the Heroku lab, students can take any existing project and translate it into a Java web application.
+Although there is no corresponding introductory lab, if any students have Android application programming experience, they can take any existing project and translate it into an Android application. They cannot, however, create an iOS application because the course is designed to teach object oriented programming in Java.
+    * New apps can be started for the students to work on.
+    * To continue with the legacy code theme, and due to the complexities of web / Android application frameworks, the mentors should start the project repository.
   
 ```
 Moderators / Mentors
@@ -68,13 +74,7 @@ Leadership
 
 
 
-Generation of new repositories
-Transition from Java Swing apps to Java web apps
-Many of the current projects are from many years ago and consist of simple games with oldschool graphics that are not very interesting anymore
-With the introduction of the Heroku lab, students can take any existing project and translate it into a Java web application.
-Although there is no corresponding introductory lab, if any students have Android application programming experience, they can take any existing project and translate it into an Android application. They cannot, however, create an iOS application because the course is designed to teach object oriented programming in Java.
-Additionally, new apps can be started for the students to work on.
-To continue with the legacy code theme, and due to the complexities of web / Android application frameworks, the students  the mentors should start the project repository 
+
 Point estimates
 Points are estimated at 100 points is roughly 2 hours of work
 Not a hard line in any way. Working on a bug for 2 hours, while still a good learning experience, wouldn't count the same as 2 hours of coding that perhaps created a menu screen, for example
