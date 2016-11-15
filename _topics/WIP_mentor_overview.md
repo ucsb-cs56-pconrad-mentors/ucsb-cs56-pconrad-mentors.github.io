@@ -44,50 +44,30 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
     * Sit at the head of a row on furthest end of the lab by the windows
     * If you aren’t leading a row of students during a lab session, find a free seat near the front or back and be available to help other teams
     * Oversee team members throughout lab session
-      * Check in with students first
-      * Make sure they know what they need to be doing and any deliverables for the week
-      * Students are given until the following week to complete a lab. This gives them an opportunity to ask any last minute questions about the previous week’s lab.
-      * Encourage them not to fall behind the previous lab should be mostly completed before. 
-Legacy Code
+      * Check in with students first. Make sure they know what they need to be doing and any deliverables for the week
+      * Give students the opportunity to ask any last minute questions about the previous week’s lab. Students are given until the following week to complete a lab.
+      * Encourage students not to fall behind. The previous lab should be mostly completed before they come to lab. 
+      
+  * Curation of Legacy Code repositories:
+    * Look through projects in organization: https://github.com/UCSB-CS56-Projects
+    * Update basic information from previous year
+    * Copy any descriptions from the previous mentors and save it in the README 
+    * Look through previous legacy work and merge any pull requests that look like they contribute to the project going forward
+    * Make sure to run the code and make note of any incomplete or non-working features. These can be used as issues for students to work on, or it may be a sign that the code should not be merged but rather scraped
+    * Most often, the code can be used going forward. The only time previous legacy code is rejected is if it really does not work well with future plans or severely broke the project in some way
+    * Decide if repository should be assigned or not
+      * If yes, fill in any new issues that sound interesting and mark it ready in the project description at the top of the repository (ie W16 - ready)
+      * If no, then clean up anything from previous year and mark repository as not ready (ie W16 - not ready)
 
 
   
 ```
 Moderators / Mentors
 Leadership
-Project manager / scrum master work duties
-Plan sprints
-Discuss with team their expectations for the quarter
-Check in with team frequently
-Ensure plans are being followed and work with team to ensure they have all that they need ready to complete the work that session
-Code reviews
-Code reviews offer the students a chance to improve their coding practices and mentors a chance to practice analyzing code for performance and best practices for industry. As a team leader or project manager in the real world, a significant goal is to generate an efficient, working piece of code. 
-Although the student may have created something that works, it may not be well implemented and now is the opportunity to inform the student of ways to improve upon their code. Separate from their grade in the course, this is a time to show them how their code would be evaluated in the real world, based on a given project specification (not a grading rubric). This means that even if they have working code that satisfies the lab requirements, there may still be room for improvement that they were unaware of.
-Any evaluations of student work may be used by the TAs or reader to gain insight into the code for future grading, but the evaluation should be based on the purpose of the code, not the grading rubric.
-Labs
-Lab preparation
-Look over labs material, be prepared to answer questions
-Do the lab if unfamiliar with concepts due to not remembering material or have not done it before
-Lab time
-Arrive a little early if possible
-Sit at the head of a row on furthest end of the lab by the windows
-If you aren’t leading a row of students during a lab session, find a free seat near the front or back
-Oversee team members throughout lab session
-Check in with students first
-Make sure they know what they need to be doing and any deliverables for the week
-Students are given until the following week to complete a lab. This gives them an opportunity to ask any last minute questions about the previous week’s lab, but it should be mostly completed before the following lab session so they have ample time to ask any necessary questions for the next lab. 
-Legacy Code Projects
-Curation of previous repositories
-Look through projects in organization
-https://github.com/UCSB-CS56-Projects
-Update basic information from previous year
-Copy any descriptions from the previous mentors and save it in the README 
-Look through previous legacy work and merge any pull requests that look like they contribute to the project going forward
-Make sure to run the code and make note of any incomplete or non-working features. These can be used as issues for students to work on, or it may be a sign that the code should not be merged but rather scraped
-Most often, the code can be used going forward. The only time previous legacy code is rejected is if it really does not work well with future plans or severely broke the project in some way
-Decide if repository should be assigned or not
-If yes, fill in any new issues that sound interesting and mark it ready in the project description at the top of the repository (ie W16 - ready)
-If no, then clean up anything from previous year and mark repository as not ready (ie W16 - not ready)
+
+
+
+
 Generation of new repositories
 Transition from Java Swing apps to Java web apps
 Many of the current projects are from many years ago and consist of simple games with oldschool graphics that are not very interesting anymore
