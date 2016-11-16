@@ -13,11 +13,11 @@ Acknowledgments: The original outline was authored by Jenna Cryan.   Additional 
 
 # Expectations of Mentors
 
-**Be a team leader:** On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Mentors are responsible for reviewing the labs of the students they are mentoring.  
+**Be a team leader:** On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Mentors are responsible for reviewing the labs of the students they are mentoring. Make sure you read this: [Basic Guidelines for TA/Reader/Mentor](/topics/TA_Reader_Mentor_guidelines/)
 
-**Review legacy code projects:** The bulk of code review comes from the legacy code projects, which mentors will prepare. Mentors and student teams should be in close contact regarding its progress throughout the quarter
+**Review legacy code projects:** The bulk of code review comes from the legacy code projects, which mentors will prepare. Mentors and student teams should be in close contact regarding its progress throughout the quarter. [Mentor Roles during Legacy Code work](/topics/mentor_roles_during_legacy_code_work/)
 
-**Provide meaningful feedback to mentees:** Unlike TAs, readers, and professors, mentors do not evaluate the performance of the students in a quantifiable way. Mentor evaluations of student work take place in the form of code reviews when the mentors have the opportunity to provide meaningful feedback on student code and habits.
+**Provide meaningful feedback to mentees:** Unlike TAs, readers, and professors, mentors do not evaluate the performance of the students in a quantifiable way. Mentor evaluations of student work take place in the form of code reviews when the mentors have the opportunity to provide meaningful feedback on student code and habits. Maybe useful: [Steps for Creating Feedback Repos](/topics/create_feedback_repo/)
   
 # Learning Goals for Mentors
    
@@ -42,7 +42,7 @@ It’s a learning environment for everyone involved, and at any point feel free 
   * Discuss with team their expectations and goals for the quarter   
   * Check in with team frequently 
    
-**Code reviews:** _As the team leaders, mentors know the most about the progress of their teams’ projects from start to finish and as such mentor feedback is very important. Detailed instructions for lab reviewed can be found at:_ https://github.com/UCSB-CS56-W16/W16-lab04/wiki
+**Code reviews:** _As the team leaders, mentors know the most about the progress of their teams’ projects from start to finish and as such mentor feedback is very important. Detailed instructions for lab reviewed can be found at:_ [Link](https://github.com/UCSB-CS56-W16/W16-lab04/wiki/)
 
   * Help your teams improve on their code based on how code is evaluated in the real world. 
   * Give in-depth reviews. Even if they have working code that satisfies the lab requirements, there may still be room for improvement that they were unaware of.
@@ -66,8 +66,9 @@ It’s a learning environment for everyone involved, and at any point feel free 
   * Encourage students not to fall behind. The previous lab should be mostly completed before they come to lab. 
       
 **Curation of Legacy Code repositories:**
-
-  * Look through projects in organization: https://github.com/UCSB-CS56-Projects
+  
+  * More detailed steps about [The Curation Process](/topics/curation_start_of_course/)
+  * Look through projects in organization: [Link of Projects list](https://github.com/UCSB-CS56-Projects)
   * Update basic information from previous year
   * Copy any descriptions from the previous mentors and save it in the README 
   * Look through previous legacy work and merge any pull requests that look like they contribute to the project going forward
@@ -94,6 +95,13 @@ It’s a learning environment for everyone involved, and at any point feel free 
   
 ## Weekly Breakdown
 
+**Week 0**
+  
+  * [Week 0 checklist](/topics/week_00_checklist/)
+  * Read the following two articles: 
+    * [Basic Guidelines for TA/Reader/Mentor](/topics/TA_Reader_Mentor_guidelines/)
+    * [Mentor Roles during Legacy Code work](/topics/mentor_roles_during_legacy_code_work/)
+
 **Week 1**
 
   * Meet with professor, TAs, other mentors to get to know everyone and discuss expectations for the quarter
@@ -118,6 +126,9 @@ It’s a learning environment for everyone involved, and at any point feel free 
 
   * Assign projects
   * For simplicity, students are first arbitrarily assigned a project to do an initial lookover. They will get the opportunity the following week to switch it if they would like (for instance, if they would like to work on Android or web apps)
+  * During this week's lab, they are asked to write readme files about their thoughts of the projects and do pull requests. 
+  * Mentors are going to create feedback repos for each group of students as well as for each individual student [Steps for Creating Feedback Repos](/topics/create_feedback_repo/)
+  * Mentors will have to deal with pull requests of students' readme files about their feedbacks on the initial look of the project [Steps for Accepting Pull Requests (First look at Ledacy Code)](https://ucsb-cs56-pconrad-mentors.github.io/topics/feedback_first_look_legacy_code/)
 
 **Week 5**
 
@@ -142,6 +153,9 @@ It’s a learning environment for everyone involved, and at any point feel free 
   * Discuss challenges, revisions to project goal 
   * Discuss plans for next sprint
   * Should be a similar amount of work as the first sprint, and should result in a working final product that could be demoed at end of quarter
+  * Mentors need to go over students' progress on completing the first 500 points of their 1000 point goal by the end of the quarter. 
+  * Mentors need to give feedbacks on students' half-completed legacy code project. [Steps for Giving Feedback on Legacy Code Projects](/topics/legacy_code_projects_giving_feedback/)
+  * What to do when you get a pull request for the legacy code projects: [Deal with Legacy Code pull requests](/topics/legacy_code_pull_requests/)
 
 **Week 8**
 
@@ -162,6 +176,10 @@ It’s a learning environment for everyone involved, and at any point feel free 
   * Many projects may not be completed in time to review it with them in person, but a live demo should give mentors an opportunity to generally discuss if they met expectations
   * Discuss possible issues to add to repository for future generations of students
   * Working with TAs / reader
+  
+**Final Week**
+
+  * Mentors need to submit a End-of-Quarter Essay to the department [End-of-Quarter Essay](/topics/essay/)
 
 # Work delegation
 
