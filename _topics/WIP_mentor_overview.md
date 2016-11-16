@@ -35,6 +35,7 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
   * Give in-depth reviews. Even if they have working code that satisfies the lab requirements, there may still be room for improvement that they were unaware of.
   * Give evaluations based on the purpose of the code and project specifications, not solely based on the grading rubric.
   * Facilitate good coding practices that can continue to be built on to develop into something better.  
+  * Encourage the use of design paterns and other course material.
     
 **Lab preparation:**
 
@@ -57,9 +58,8 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
   * Update basic information from previous year
   * Copy any descriptions from the previous mentors and save it in the README 
   * Look through previous legacy work and merge any pull requests that look like they contribute to the project going forward
-  * Make sure to run the code and make note of any incomplete or non-working features. These can be used as issues for students to work on, or it may be a sign that the code should not be merged but rather scraped
-  * Most often, the code can be used going forward. The only time previous legacy code is rejected is if it really does not work well with future plans or severely broke the project in some way
-  * Decide if repository should be assigned or not
+  * Make sure to run the code and make note of any incomplete or non-working features. These can be used as issues for students to work on, or it may be a sign that the code should not be merged but rather scraped.
+  * Decide if repository should be assigned or not.  Most often, the code can be used going forward. The only time previous legacy code is rejected is if it really does not work well with future plans or is severely broken in some way
     * If yes, fill in any new issues that sound interesting and mark it ready in the project description at the top of the repository (ie W16 - ready)
     * If no, then clean up anything from previous year and mark repository as not ready (ie W16 - not ready)
   * Look for additional issues that can be created to improve the code, whether it is improving the implementation/code structure or enhancing a user experience
