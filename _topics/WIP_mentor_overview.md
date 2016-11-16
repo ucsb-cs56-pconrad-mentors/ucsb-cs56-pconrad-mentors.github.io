@@ -77,7 +77,7 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
 **Point estimates:**
 
   * Points are estimated at 100 points is roughly 3 hours of work. It is not a hard line in any way. Working on a bug for 3 hours, while still a good learning experience, wouldn't count the same as 3 hours of coding that perhaps created a menu screen, for example.
-  * Point estimates are designed to be a guideline for amount work completed and to set a reasonable goal for students
+  * Point estimates are designed to be a guideline for the amount of work completed and to set a reasonable goal for students.
   
 ## Weekly Breakdown
 **Week 1**
@@ -90,7 +90,8 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
   * Get to know your team members
   * Find out if any of them are interested in web or Android application programming, they may be better suited for another mentor with similar interests and programming experience who could provide more meaningful code reviews
   * Work out pairs / individuals
-  * Some labs will be done in pairs, and some are to be done individually. Often, it’s easiest if pairs can be worked out early on in the quarter and that you know who is working by themselves and who is not. 
+    * Encourage them to pair program.
+  * Some labs will be done in pairs, and some are to be done individually. Often, it’s easiest if pairs can be worked out early on in the quarter and that you know who is working by themselves and who is not. This allows them to get used to each other before working on legacy code.
   * Although they are all responsible for the same work whether working individually or in a group, those working as individuals may need a little extra guidance to ensure they sufficiently plan out their work load, especially as it pertains to the legacy code project
 
 **Week 3**
@@ -150,8 +151,8 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
 
 Work delegation
 Mentors work mostly with the students themselves. However, at the start of the quarter, mentors should meet with the professor, TAs, and reader (if applicable) to discuss expectations for delegating work.
-As the students finish their labs, it is important that the mentors begin reviewing them so as to provide speedy feedback and they have opportunity for improvement going forward
-TAs and reader will always be in charge of actually grading, but they will wait for code review feedback from mentors as it signals the students are done and it is useful when reviewing their work. As such, it is important to maintain an open line of communication among all mentors, the TAs, reader, and at times also the professor in terms of exactly what has been done and what is left to be completed. Most conveniently, this can be handled through shared spreadsheets set up by a TA or mentor (or mentor leader if applicable) at the start of the quarter so everyone is on the same page, literally. Additionally, while mentors know what they are responsible for (their own teams work) the TAs do not have their work as easily delegated. The spreadsheet will also allow TAs or reader to ‘claim’ an assignment to grade to prevent overlap.
+As the students finish their labs, it is important that the mentors begin reviewing them so as to provide speedy feedback giving them the opportunity to improve going forward and to catch any turn in issues before the grader
+TAs and reader will always be in charge of actually grading, but they will wait for code review feedback from mentors as it signals the students are done and it is useful when reviewing their work. As such, it is important to maintain an open line of communication among all mentors, the TAs, reader, and Professor at all times. Keep up with the professor in terms of exactly what has been done and what is left to be completed. Most conveniently, this can be handled through shared spreadsheets set up by a TA or mentor (or mentor leader if applicable) at the start of the quarter so everyone is on the same page, literally. Additionally, while mentors know what they are responsible for (their own teams work) the TAs do not have their work as easily delegated. The spreadsheet will also allow TAs or reader to ‘claim’ an assignment to grade to prevent overlap.
 
 ```
 Moderators / Mentors
