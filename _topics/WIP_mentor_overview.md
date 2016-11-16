@@ -149,13 +149,13 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
   * Discuss possible issues to add to repository for future generations of students
   * Working with TAs / reader
 
-Work delegation
+# Work delegation
+
 Mentors work mostly with the students themselves. However, at the start of the quarter, mentors should meet with the professor, TAs, and reader (if applicable) to discuss expectations for delegating work.
-As the students finish their labs, it is important that the mentors begin reviewing them so as to provide speedy feedback giving them the opportunity to improve going forward and to catch any turn in issues before the grader
-TAs and reader will always be in charge of actually grading, but they will wait for code review feedback from mentors as it signals the students are done and it is useful when reviewing their work. As such, it is important to maintain an open line of communication among all mentors, the TAs, reader, and Professor at all times. Keep up with the professor in terms of exactly what has been done and what is left to be completed. Most conveniently, this can be handled through shared spreadsheets set up by a TA or mentor (or mentor leader if applicable) at the start of the quarter so everyone is on the same page, literally. Additionally, while mentors know what they are responsible for (their own teams work) the TAs do not have their work as easily delegated. The spreadsheet will also allow TAs or reader to ‘claim’ an assignment to grade to prevent overlap.
 
-```
-Moderators / Mentors
-Leadership
+As the students finish their labs, it is important that the mentors begin reviewing them so as to provide speedy feedback giving them the opportunity to improve going forward and to catch any turn in issues before the grader.
 
-```
+TAs and reader will always be in charge of actually grading, but they will wait for code review feedback from mentors as it signals the students are done and it is useful when reviewing their work. As such, it is important to maintain an open line of communication among all mentors, the TAs, reader, and Professor at all times. Keep up with the professor in terms of exactly what has been done and what is left to be completed. Most conveniently, this can be handled through shared spreadsheets set up by a TA or mentor (or mentor leader if applicable) at the start of the quarter so everyone is on the same page, literally. 
+
+Additionally, while mentors know what they are responsible for (their own teams' work) when there are multiple TAs/Graders, it isn't as clear which TA/Grader is responsible for grading which legacy code project.    The spreadsheet will also allow TAs and Readers a mechanism to ‘claim’ an assignment to grade to prevent overlap.
+
