@@ -1,15 +1,17 @@
 ---
-topic: "WIP Mentor Overview"
-desc: "Raw notes from J.C.--needs a reformat"
+topic: "CS56 Mentor Overview"
+desc: "An overview of the roles and responsibilities of CS56 mentors; a guide for mentors, TAs/Readers, and instructors"
 ---
 
-These are some raw notes from a document by Jenna Cryan.   As time permits, these could be crafted into a more coherent guide for CS56 mentors.
+# Mentors for CS56: An overview 
 
+This document provides an overview of the roles and responsibilities of Mentors in CS56.
 
+<div style="font-size:80%" markdown="1">
+Acknowledgments: The original outline was authored by Jenna Cryan.   Additional edits have been made by Angela Yung, Alex Thielk and Phill Conrad.
+</div>
 
-# Team Leadership for Advanced Applications Programming
-
-## Expectations:
+# Expectations of Mentors
 
 **Be a team leader:** On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Mentors are responsible for reviewing the labs of the students they are mentoring.  
 
@@ -17,11 +19,22 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
 
 **Provide meaningful feedback to mentees:** Unlike TAs, readers, and professors, mentors do not evaluate the performance of the students in a quantifiable way. Mentor evaluations of student work take place in the form of code reviews when the mentors have the opportunity to provide meaningful feedback on student code and habits.
   
-## Take Away: 
+# Learning Goals for Mentors
    
-   The main goals are to gain meaningful insight into working as a manager / scrum master while helping students learn about how to work on a project development team. It’s a learning environment for everyone involved, and at any point feel free to discuss anything with the other mentors, the mentor leader ( if there is one ), the TA(s), and especially with the professor. 
+The main learning goals for students undertaking the mentor role as a CMPSC192 project course are:
+   
+* To gain meaningful insight into working as a manager / scrum master while learning&mdash;and helping students learn&mdash;about how to work on a project development team. 
+* To practice and develop leadership and professional communication skills in the dual contexts of professional software development and CS Education
+* To gain additional knowledge and skill and depth in Java-based software development beyond what was learned when the mentor took CS56 or an equivalent course.   This includes:
+    * Knowledge of the Java language itself    
+    * Skill with various tools and techniques as applicable.   The exact list will depend on the legacy code
+         projects the mentor interacts with, but will always include git/github and Ant.
+    * Other tools and techniques may include Android Development, Java web applications, Maven, Gradle, etc.
 
-## Duties:
+
+It’s a learning environment for everyone involved, and at any point feel free to discuss anything with the other mentors, the mentor leader ( if there is one ), the TA(s), and especially with the professor. 
+
+# Duties of Mentors
 
 **Project manager / scrum master work duties:** _As team leaders, it is important mentors work closely with teams to ensure they have everyting they need to complete the work for the quarter and succeed_
 
@@ -80,6 +93,7 @@ These are some raw notes from a document by Jenna Cryan.   As time permits, thes
   * Point estimates are designed to be a guideline for the amount of work completed and to set a reasonable goal for students.
   
 ## Weekly Breakdown
+
 **Week 1**
 
   * Meet with professor, TAs, other mentors to get to know everyone and discuss expectations for the quarter
