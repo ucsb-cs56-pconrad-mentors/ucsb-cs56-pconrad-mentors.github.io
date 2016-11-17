@@ -183,7 +183,7 @@ It’s a learning environment for everyone involved, and at any point feel free 
   
 **Final Week**
 
-  * Mentors need to submit a End-of-Quarter Essay to the department [End-of-Quarter Essay](/topics/essay/)
+  * Mentors need to submit a [End-of-Quarter Essay](/topics/essay/) to the department 
 
 # Work delegation
 
