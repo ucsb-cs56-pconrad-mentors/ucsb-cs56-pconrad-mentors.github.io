@@ -8,8 +8,11 @@ desc: "An overview of the roles and responsibilities of CS56 mentors; a guide fo
 This document provides an overview of the roles and responsibilities of Mentors in CS56.
 
 <div style="font-size:80%" markdown="1">
-Acknowledgments: The original outline was authored by Jenna Cryan.   Additional edits have been made by Angela Yung, Alex Thielk and Phill Conrad.
+Acknowledgments: The original outline was authored by Jenna Cryan.   Additional edits have been made by Chandler Qian, Franklin Tang, Angela Yung, Alex Thielk and Phill Conrad.
 </div>
+
+# Week 0 tasks
+**Establish communication:** Follow this [link](https://ucsb-cs56-pconrad-mentors.github.io/topics/week_00_checklist/) to get situated with tools that mentors, TAs, and Professor Conrad will use to communicate and share information throughout the quarter.
 
 # Expectations of Mentors
 
@@ -101,8 +104,9 @@ It’s a learning environment for everyone involved, and at any point feel free 
   
 **Week 2**
 
-  * Get to know your team members
-  * Find out if any of them are interested in web or Android application programming, they may be better suited for another mentor with similar interests and programming experience who could provide more meaningful code reviews
+  * Get to know your team members. 
+    * Often times, students will leave early so make sure you start off introducing yourself.
+  * Find out if any of them are interested in web or Android application programming, they may be better suited for another mentor with similar interests and programming experience who could provide more meaningful code reviews.
   * Work out pairs / individuals
     * Encourage them to pair program.
   * Some labs will be done in pairs, and some are to be done individually. Often, it’s easiest if pairs can be worked out early on in the quarter and that you know who is working by themselves and who is not. This allows them to get used to each other before working on legacy code.
