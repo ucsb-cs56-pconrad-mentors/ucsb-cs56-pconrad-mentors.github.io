@@ -14,6 +14,7 @@ Acknowledgments: The original outline was authored by Jenna Cryan.   Additional 
 # Week 0 tasks
 **Establish communication:** Follow this [link](https://ucsb-cs56-pconrad-mentors.github.io/topics/week_00_checklist/) to get situated with tools that mentors, TAs, and Professor Conrad will use to communicate and share information throughout the quarter.
 
+
 # Expectations of Mentors
 
 **Be a team leader:** On a base level, mentors are there to lead their student teams and resolve questions and conflicts. Mentors are responsible for reviewing the labs of the students they are mentoring. Make sure you read this: [Basic Guidelines for TA/Reader/Mentor](/topics/TA_Reader_Mentor_guidelines/)
@@ -107,8 +108,8 @@ It’s a learning environment for everyone involved, and at any point feel free 
 
 **Week 1**
 
-  * Meet with professor, TAs, other mentors to get to know everyone and discuss expectations for the quarter
-  * Meet with students during lab, they may or may not be the same students on your team for the rest of the quarter
+  * Meet with professor, TAs, other mentors to get to know everyone and discuss expectations for the quarter.
+  * Meet with students during lab, they may or may not be the same students on your team for the rest of the quarter.
   
 **Week 2**
 
@@ -118,30 +119,30 @@ It’s a learning environment for everyone involved, and at any point feel free 
   * Work out pairs / individuals
     * Encourage them to pair program.
   * Some labs will be done in pairs, and some are to be done individually. Often, it’s easiest if pairs can be worked out early on in the quarter and that you know who is working by themselves and who is not. This allows them to get used to each other before working on legacy code.
-  * Although they are all responsible for the same work whether working individually or in a group, those working as individuals may need a little extra guidance to ensure they sufficiently plan out their work load, especially as it pertains to the legacy code project
+  * Although they are all responsible for the same work whether working individually or in a group, those working as individuals may need a little extra guidance to ensure they sufficiently plan out their work load, especially as it pertains to the legacy code project.
 
 **Week 3**
 
-  * Help students work on Java programming skills
-  * Labs such as the polynomial and animation labs should be mostly straightforward and help prepare them for working with the legacy code projects
-  * Most questions end up relating to issues with Javadocs, so be sure to be familiar with how to deploy / debug those
+  * Help students work on Java programming skills.
+  * Labs such as the polynomial and animation labs should be mostly straightforward and help prepare them for working with the legacy code projects.
+  * Most questions end up relating to issues with Javadocs, so be sure to be familiar with how to deploy / debug them.
 
 **Week 4**
 
-  * Assign projects
-  * For simplicity, students are first arbitrarily assigned a project to do an initial lookover. They will get the opportunity the following week to switch it if they would like (for instance, if they would like to work on Android or web apps)
+  * Assign projects.
+  * For simplicity, students are first arbitrarily assigned a project to do an initial lookover. They will get the opportunity the following week to switch it if they would like (for instance, if they would like to work on Android or web apps).
   * During this week's lab, they are asked to write readme files about their thoughts of the projects and do pull requests. 
-  * Mentors are going to create feedback repos for each group of students as well as for each individual student [Steps for Creating Feedback Repos](/topics/create_feedback_repo/)
-  * Mentors will have to deal with pull requests of students' readme files about their feedbacks on the initial look of the project [Steps for Accepting Pull Requests (First look at Ledacy Code)](https://ucsb-cs56-pconrad-mentors.github.io/topics/feedback_first_look_legacy_code/)
+  * Mentors are going to create feedback repos for each group of students as well as for each individual student [Steps for Creating Feedback Repos](/topics/create_feedback_repo/).
+  * Mentors will have to deal with pull requests of students' readme files about their feedbacks on the initial look of the project [Steps for Accepting Pull Requests (First look at Ledacy Code)](https://ucsb-cs56-pconrad-mentors.github.io/topics/feedback_first_look_legacy_code/).
 
 **Week 5**
 
   * Reassign projects if necessary
-  * Some students may really want to switch from the project they were initially assigned, and now is their chance to voice that. If enough students want to switch or if there are extra repos to offer them as an alternative, they may be allowed to change
-  * Furthermore, any students who wish to work on a Android or web application may speak up now and try to work on one of those repos
-  * Meet with team members to go over plans for first sprint
-  * Now the teams should have their projects and be able to begin planning that they would like to accomplish this quarter
-  * Then, you should work together to figure out a plan for their first 2 week sprint
+  * Some students may really want to switch from the project they were initially assigned, and now is their chance to voice that. If enough students want to switch or if there are extra repos to offer them as an alternative, they may be allowed to change.
+  * Furthermore, any students who wish to work on a Android or web application may speak up now and try to work on one of those repos.
+  * Meet with team members to go over plans for first sprint.
+  * Now the teams should have their projects and be able to begin planning that they would like to accomplish this quarter.
+  * Then, you should work together to figure out a plan for their first 2 week sprint.
 
 **Week 6**
 
@@ -176,14 +177,15 @@ It’s a learning environment for everyone involved, and at any point feel free 
 
 **Week 10**
 
-  * Meet with student team members to go over final code review, if possible
-  * Many projects may not be completed in time to review it with them in person, but a live demo should give mentors an opportunity to generally discuss if they met expectations
-  * Discuss possible issues to add to repository for future generations of students
-  * Working with TAs / reader
+  * Meet with student team members to go over final code review, if possible.
+  * Many projects may not be completed in time to review it with them in person, but a live demo should give mentors an opportunity to generally discuss if they met expectations.
+  * Discuss possible issues to add to repository for future generations of students.
+  * Work with TAs / reader.
   
 **Final Week**
 
   * Mentors need to submit a [End-of-Quarter Essay](/topics/essay/) to the department 
+  * This should be started early on so that you have material to write about. Have notes on things you think are important to include throuhgout the quarter.
 
 # Work delegation
 
