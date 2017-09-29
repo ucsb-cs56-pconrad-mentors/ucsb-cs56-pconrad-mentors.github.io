@@ -3,6 +3,13 @@ topic: "Week 0 Checklist"
 desc: "Tasks for Mentors, TAs, Instructors before quarter starts"
 ---
 
+
+# Instructor Github Org Setup
+
+1. Make sure that the Default repository permission is "None" on the https://github.com/ucsb-cs56-f17 settings.  This is SUPER important.  Otherwise, all students have read permission to even private repos.  That is clearly not desirable!
+
+#  Instructor Other
+
 1.  Mentors fill out the signup form for CS192/196 credit.   Get Instructor's signature.  Turn in to CS Dept. staff undergrad advisor,
      get add code, and sign up for course.   Note that signup is NOT automatic after you fill out form.  You MUST take the add code
      and actually sign up.
