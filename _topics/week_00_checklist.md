@@ -13,6 +13,19 @@ desc: "Tasks for Mentors, TAs, Instructors before quarter starts"
 
 4.   Instructor adds mentors as owners on github orgs
 
+
+# Accounts that TAs and Mentors Need
+
+| Account Type |  TA?   | Mentor?   |
+|--------------|--------|-----------|
+| Github orgs (see below) |  Y     |    Y      |
+| Gradescope   |   Y     |   No, for now |
+| submit.cs    |   Y     |  No, for now |
+| Piazza       |   Y     |   Y    |
+| Google Drive Folder | Y    |  Y    |
+
+
+
 # Github orgs that mentors should be added to:
 
 * <https://github.com/orgs/ucsb-cs56-pconrad-mentors/people>
