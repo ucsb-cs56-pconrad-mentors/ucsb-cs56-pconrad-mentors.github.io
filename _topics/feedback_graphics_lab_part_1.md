@@ -1,6 +1,7 @@
 ---
 topic: "Feedback: graphics lab part 1 (F16 lab04)"
 desc: "Mentor, TA and Instructor guidance on evaluating graphics lab part 1"
+lab_num: "F17 lab04"
 ---
 
 
@@ -15,14 +16,13 @@ These are instructios for the feedback repo for:
 
 Step 1:
 
-In the students's [individual FEEDBACK_githubid repo](/topics/create_feedback_repo/), create a section called "lab06 feedback" 
+In the students's [individual FEEDBACK_githubid repo](/topics/create_feedback_repo/), create a section called "{{page.lab_num}} feedback"
 
-In that section, copy paste the following text below (Sample Rubric as Github Flavored Markdown Table).
+In that section, copy/paste the following text below (Sample Rubric as Github Flavored Markdown Table).
 
-Step 2: Moderator fills in ONLY the +-o? column and the comments column.
+Step 2: Moderator fills in ONLY the `+-o?` column and the comments column.
 
 THEN the moderator is ready to accept the pull request.  You can also comment on the pull request directly in the github.com UI, by commenting on lines of source code in the usual way.
-
 
 # Sample Rubric as Github Flavored Markdown Table
 
@@ -36,7 +36,15 @@ to do the grading we need to change the line in the build.xml file that starts w
 
 ** or you can use `export USER="csilUsername"` from the command line to tell ant to access the proper package **
 
-Step 3:  The TA or instructor fills in the numbers in the grade column, totals, and posts the grade to Gauchospace.
+Step 3: The Mentor marks column in Google Spreadsheet
+
+In the Google spreadsheet where this is being tracked put an X in the column called "Lab04 Feedback Ready" 
+
+* for F17 that sheet is this one: <http://bit.ly/cs56-f17-repo-sheet>
+
+Step 4:  The TA (or instructor) fills in the numbers in the grade column, totals, and posts the grade to Gauchospace.
+
+(For F17, Jonathan, Kevin B and Yun should divide up this duty among the three mentor teams.)
 
 ```
 * + o - are indications from Moderator's review
