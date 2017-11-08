@@ -6,8 +6,10 @@ desc: "Mentor, TA and Instructor guidance on evaluating graphics lab part 1"
 
 These are instructios for the feedback repo for:
 
+* [lab04 from F17](https://ucsb-cs56-f17.github.io/lab/lab04/)
 * [lab06 from M16](https://ucsb-cs56-m16.github.io/lab/lab06/)
 * [lab04 from F16](https://ucsb-cs56-f16.github.io/lab/lab04/)
+
 
 # HOW TO DEAL WITH PULL REQUESTS (as a moderator) for this lab
 
