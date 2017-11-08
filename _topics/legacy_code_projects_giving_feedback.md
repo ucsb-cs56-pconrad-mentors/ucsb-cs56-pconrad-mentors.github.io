@@ -53,21 +53,41 @@ Then, under that heading, list the issues that the students worked on.  It is he
   
 Example:
 
+
 ```
 
 Pull request: https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/pull/12
 
-* [Issue: #7](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/7) Change the menu 
+* [Issue: #7](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/7) Change the menu
+
+| +o?-  | Summary | Comments  
+|-------|------|--------|
+|   o   | Did they solve the core problem of the issue? |   |
+|   o   | Is the code style and organization satisfactory? |   |
+|   o   | Did they break anything else or create unintended consequences? |   |
+
 
 Original Estimate: 250.  Student Requesting 300 in comment.
 
 
 * [Issue: #97 Update JUnit tests](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/97)
 
+| +o?-  | Summary | Comments  
+|-------|------|--------|
+|   o   | Did they solve the core problem of the issue? |   |
+|   o   | Is the code style and organization satisfactory? |   |
+|   o   | Did they break anything else or create unintended consequences? |   |
+
 Estimate: 200 
 
 
-* [Issue #26: Change Help Menu to Make it Non-Editable](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/26) 
+* [Issue #26: Change Help Menu to Make it Non-Editable](https://github.com/UCSB-CS56-Projects/cs56-games-hopscotch/issues/26)
+
+| +o?-  | Summary | Comments  
+|-------|------|--------|
+|   o   | Did they solve the core problem of the issue? |   |
+|   o   | Is the code style and organization satisfactory? |   |
+|   o   | Did they break anything else or create unintended consequences? |   |
 
 Estimate: 50
 ```
