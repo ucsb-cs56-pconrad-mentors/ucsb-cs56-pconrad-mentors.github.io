@@ -21,15 +21,21 @@ Basic steps to doing initial curation:
       as an issue.
     * Add as issues, any other obvious problems or refactorings in the build.xml
 * Check the javadoc generation
-    * Most of the current build.xml files, if they build javadoc at all, will
-      publish it to a CSIL account.   
-    * The javadoc files might be in the .gitignore
+    * Older build.xml files, if they build javadoc at all, will do it in one of several
+      ways that is now obsolete.  They might have some complicated code to publish to a
+      CSIL account, or a gh-pages branch, or something else.
+    * The javadoc files might be in the `.gitignore` which is also not what we want.
     * Instead, we should have them NOT put the javadoc in the .gitignore, and NOT copy it to
-      a space outside the repo.   They should, instead, use the gh-pages workflow to publish
-      their javadoc to a github pages URL.   Add this as an issue on every repo where
-      the build.xml doesn't already do this (for M16, that will be every repo.  For quarters
-      after M16, it will be a mix.)
+      a space outside the repo.   They should, instead, just leave the javadoc in 
+      a directory inside the repo, possibly under `docs/` or possibly at the top level
+      of the repo.   
+    * The repo should then publish to github-pages, and there is should be a link
+      to the generated javadocs from the README.md.
+    * Add this as an issue on every repo where
+      the build.xml doesn't already do this 
 * Check the javadoc itself
+    * Actually generate the javadoc, and see if there are any errors.  If there are 
+      errors, note those as issues.
     * If there are places where the javadoc can be improved, note those as issues
 * Check the existing list of issues
     * Familiarize yourself with each issue.
@@ -41,6 +47,14 @@ Basic steps to doing initial curation:
       could get started on adding the feature?  If some additional detail is needed, provide it.
       Don't, however, do design "for" the students if they should be capable of doing that
       themselves.  Find a reasonable middle ground between "too vague" and "too specific".
+* If the project is a Java Swing project, add an issue to migrate it to JavaFX.  This is
+   probably a 500 point issue all by itself.
+* If the project uses Ant, add issues to migrate to also support Maven, 
+   and run test code coverage with jacoco.  Just adding test code coverage should be
+   200 points.  Then, improving the test code coverage could be anywhere from 100 points
+   to 1000 points, depending on how much refactoring is needed, and how much test code
+   has to be written.   Note that while "view" code (GUI code) might be difficult to unit
+   test meaningfully, it SHOULD be possible to factor out logic from view code and unit test that.
 * Try to find bugs.  If you find some that are not already listed as issues, add them.
 * Review the user interface for potential improvements.  Consider adding those as issues.
 * Look at test coverage (and noting which portions of the project have no test coverage)
@@ -60,7 +74,8 @@ Basic steps to doing initial curation:
 * If there are objects that have too much functionality bundled into them, 
   but they should be refactored into multiple smaller objects, make this observation,
   and add issues for it.
-* If the point estimates are too low in your opinion, you may change them.
+* If the point estimates are too low or high in your opinion, you may change them.
+
 
 
 # Common Problems with legacy code repos
