@@ -26,4 +26,23 @@ at this point,
 and what needs to be done asap is the code review by you. the mentors, 
 in preparation for the TAs assigning final points.
 
-I'll add some column to the spreadsheet where mentors can mark when they've finished the lab05 review, and the lab07 review.
+I'll add some column to the spreadsheet where mentors can mark when they've finished the 
+lab05 review, and the lab07 review.
+
+As well as some columns for the TAs to put in the final point totals for lab05 and lab07 in terms of points awarded.
+
+The FEEDBACK repos should have the breakdown of how many points were awarded for each issue resolved, and any explanations of why points were higher or lower than the original estimates.
+
+The spreadsheet just contains a number that will get copied over into Gauchospace as part of the students course grade calculation.
+
+Please let me know if there are any questions about this.
+
+Also, read over lab09 (skip reading over lab08 for now, though you should also read over this.)
+
+AND encourage your student to read over lab09 as well.
+
+The short version of what to tell your pairs:   
+
+* (1) Be ready to meet with me to today and go over your pull request, and all of the issues that you think it completely and successfully resolves.  
+* (2) Be prepared to demo your code.   Have one window with the code up, and another where you can run your project, and a separate web browser with a list of all of the issues on github.  
+* (3) While I (their mentor, you) am working with other teams, read over lab09, and make sure you understand that you MUST be PRESENT in lab next week to do that one, or else you have to make arrangements with me (i.e. you, their mentor) separately.  (4) Once you're done with all that, look at lab08 and try to get started on it.
