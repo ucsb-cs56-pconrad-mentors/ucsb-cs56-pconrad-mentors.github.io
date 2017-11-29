@@ -15,7 +15,7 @@ Make comments on the issues if there is anything you see that causes concern.
 
 Then... as soon as possibly after lab (or even better, during lab if time permits) 
 fill out the FEEDBACK_ repos for each of your pairs, including the material from 
-https://ucsb-cs56-pconrad-mentors.github.io/topics/legacy_code_projects_giving_feedback/
+[/topics/legacy_code_projects_giving_feedback/](/topics/legacy_code_projects_giving_feedback/)
 
 If all has gone well, by now, you are done with that for the lab05 feedback, 
 and all that needs to be done is to add the lab07 feedback.    
