@@ -47,12 +47,12 @@ Step 4:  The TA (or instructor) fills in the numbers in the grade column, totals
 (For F17, Jonathan, Kevin B and Yun should divide up this duty among the three mentor teams.)
 
 ```
-* + o - are indications from Moderator's review
- * o is **ok**, met expectations (no deductions),
- * - **below expectations** (deduction might be made by TA or instructor), 
- * + means **exceeds expectations** 
-  * In rare cases, instructor or TA might award points to offset other deductions. No guarantee of this.
- * ? is a flag used by moderators to raise a **question** for the TA to investigate further
+* \+ o - are indications from Moderator's review
+  * o is **ok**, met expectations (no deductions),
+  * \- **below expectations** (deduction might be made by TA or instructor), 
+  * \+ means **exceeds expectations** 
+   * In rare cases, instructor or TA might award points to offset other deductions. No guarantee of this.
+  * ? is a flag used by moderators to raise a **question** for the TA to investigate further
 * Poss: Possible Points
 * Pts: Points Awarded (only filled in by TA or Instructor, NOT by moderator)
 
@@ -72,12 +72,12 @@ Step 4:  The TA (or instructor) fills in the numbers in the grade column, totals
 
 Here's what it looks like when formated:
 
-* + o - are indications from Moderator's review
- * o is **ok**, met expectations (no deductions),
- * - **below expectations** (deduction might be made by TA or instructor), 
- * + means **exceeds expectations** 
-  * In rare cases, instructor or TA might award points to offset other deductions. No guarantee of this.
- * ? is a flag used by moderators to raise a **question** for the TA to investigate further
+* \+ o - are indications from Moderator's review
+  * o is **ok**, met expectations (no deductions),
+  * \- **below expectations** (deduction might be made by TA or instructor), 
+  * \+ means **exceeds expectations** 
+   * In rare cases, instructor or TA might award points to offset other deductions. No guarantee of this.
+  * ? is a flag used by moderators to raise a **question** for the TA to investigate further
 * Poss: Possible Points
 * Pts: Points Awarded (only filled in by TA or Instructor, NOT by moderator)
 
