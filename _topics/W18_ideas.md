@@ -20,7 +20,7 @@ desc: "Suggestions for things to take on in W18 or later"
 
 # Ways of interacting as industry mentor
 
-* Ideally, students will be doing one of these, and 
+* Ideally, students will be doing one of the following activities; industry mentors could choose which of these they thing they might offer the most help with, given their areas of expertise.  And/or, students could say where they think they most help.
    * Coding
        * Either refactoring, fixing bugs, or implementing features
        * OR writing tests 
@@ -28,4 +28,3 @@ desc: "Suggestions for things to take on in W18 or later"
    * Giving demos 
        * Which could be an opportunity to reflect on UI/UX
        * Or on features
-   
