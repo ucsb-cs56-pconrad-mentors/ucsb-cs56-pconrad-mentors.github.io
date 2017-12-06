@@ -17,3 +17,15 @@ desc: "Suggestions for things to take on in W18 or later"
 * First lecture on refactoring 
    * Dylan: you can refactor without understanding the exact endpoint...
    * Pair / Mob programming.
+
+# Ways of interacting as industry mentor
+
+* Ideally, students will be doing one of these, and 
+   * Coding
+       * Either refactoring, fixing bugs, or implementing features
+       * OR writing tests 
+   * Writing or refining user stories or issues
+   * Giving demos 
+       * Which could be an opportunity to reflect on UI/UX
+       * Or on features
+   
