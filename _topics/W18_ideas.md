@@ -14,3 +14,6 @@ desc: "Suggestions for things to take on in W18 or later"
    * Live code the refactoring.
    * Show the after.
    
+* First lecture on refactoring 
+   * Dylan: you can refactor without understanding the exact endpoint...
+   * Pair / Mob programming.
