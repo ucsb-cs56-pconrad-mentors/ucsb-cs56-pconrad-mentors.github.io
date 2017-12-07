@@ -28,3 +28,4 @@ desc: "Suggestions for things to take on in W18 or later"
    * Giving demos 
        * Which could be an opportunity to reflect on UI/UX
        * Or on features
+
