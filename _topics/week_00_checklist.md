@@ -36,8 +36,7 @@ desc: "Tasks for Instructor before quarter starts"
 
 1.  Mentors should be registered as paid mentors, or for CS190J credit. Verify that this is taken care of.
      
-1.  Create Gradescope course.   
-
+1.  Create Gradescope course
    * Set default setting for course to "positive scoring".     
    * Add TAs and Reader
    * Add students by uploading Egrades Roster
