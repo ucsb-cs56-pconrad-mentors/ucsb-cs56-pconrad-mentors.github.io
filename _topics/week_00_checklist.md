@@ -26,7 +26,10 @@ desc: "Tasks for Instructor before quarter starts"
    Those can be accessed at <https://github.com/organizations/{{site.current_qtr_github_org}}/settings/member_privileges>. 
    This is SUPER important.  Otherwise, all students have read permission to even private repos.  That is clearly not desirable!
 
-1. Create a form to collect information from instructional staff.
+1. Create a form to collect information from instructional staff.    Examples of past forms include:
+    * [CS56-F17-Mentor-Info](https://docs.google.com/forms/d/1NFRtNhKddOgGrIIWV16nLfrykSo_hDMwS5JfVNhxv78/edit)
+    * [CS56-W18-Mentor-Info](https://docs.google.com/forms/d/1NFRtNhKddOgGrIIWV16nLfrykSo_hDMwS5JfVNhxv78/edit)
+    
 
 1. Create a slack for instructional staff.  Naming convention is `ucsb-cs56-w18-team`
    Invite TAs, Readers, and Undergrad mentors.
