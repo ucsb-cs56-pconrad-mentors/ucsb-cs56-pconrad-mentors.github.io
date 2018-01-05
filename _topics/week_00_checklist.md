@@ -56,7 +56,7 @@ desc: "Tasks for Instructor before quarter starts"
 
 * <https://github.com/orgs/ucsb-cs56-pconrad-mentors/people>
 * <https://github.com/orgs/ucsb-cs56-pconrad/people> 
-* <https://github.com/orgs/UCSB-CS56-Projects/people> 
+* <https://github.com/orgs/ucsb-cs56-projects/people> 
 * <https://github.com/orgs/ucsb-cs56-f16/people> (substituting current qtr in place of f16)
 
 
