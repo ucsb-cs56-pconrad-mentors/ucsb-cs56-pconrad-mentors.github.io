@@ -28,7 +28,7 @@ desc: "Tasks for Instructor before quarter starts"
 
 1. Create a form to collect information from instructional staff.    Examples of past forms include:
     * [CS56-F17-Mentor-Info](https://docs.google.com/forms/d/1NFRtNhKddOgGrIIWV16nLfrykSo_hDMwS5JfVNhxv78/edit)
-    * [CS56-W18-Mentor-Info](https://docs.google.com/forms/d/1NFRtNhKddOgGrIIWV16nLfrykSo_hDMwS5JfVNhxv78/edit)
+    * [CS56-W18-Mentor-Info](https://docs.google.com/forms/d/1SZgLzL2vfY61D7653PEuerUNf7zjtJsXzE0GFlSacV4/edit)
     
 
 1. Create a slack for instructional staff.  Naming convention is `ucsb-cs56-w18-team`
