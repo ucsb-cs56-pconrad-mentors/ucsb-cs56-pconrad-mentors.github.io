@@ -15,7 +15,8 @@ The current value of that setting is: <tt>{{ site.current_qtr_github_org }}</tt>
 
 # Instructor Github Org Setup
 
-1. Make sure that the Default repository permission is "None" on the <tt>{{ site.current_qtr_github_org}}</tt> settings. Those can be accessed [at this link](https://github.com/{{site.current_qtr_github_org})/settings).  This is SUPER important.  Otherwise, all students have read permission to even private repos.  That is clearly not desirable!
+1. Make sure that the Default repository permission is "None" on the <tt>{{ site.current_qtr_github_org}}</tt> settings. Those can be accessed at <https://github.com/organizations/{{site.current_qtr_github_org}}/settings/member_privileges>. 
+This is SUPER important.  Otherwise, all students have read permission to even private repos.  That is clearly not desirable!
 
 #  Instructor Other
 
