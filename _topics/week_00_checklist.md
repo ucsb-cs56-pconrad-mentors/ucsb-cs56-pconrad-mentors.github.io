@@ -8,8 +8,10 @@ desc: "Tasks for Mentors, TAs, Instructors before quarter starts"
 1. Change the value of `current-quarter-github-org` in [`_config.yml` of this repo](https://github.com/ucsb-cs56-pconrad-mentors/ucsb-cs56-pconrad-mentors.github.io/blob/master/_config.yml).  For example:
 
 ```
-TBD
+current_qtr_github_org: ucsb-cs56-w18
 ```
+
+The current value of that setting is: <tt>{{ site.current_qtr_github_org }}</tt>
 
 # Instructor Github Org Setup
 
