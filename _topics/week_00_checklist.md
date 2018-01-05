@@ -5,7 +5,11 @@ desc: "Tasks for Mentors, TAs, Instructors before quarter starts"
 
 # Instructor Setup for This Site
 
-1. Change the value of `current-quarter-github-org` in `_config.yml` of this repo, i.e. in TBD
+1. Change the value of `current-quarter-github-org` in [`_config.yml` of this repo](https://github.com/ucsb-cs56-pconrad-mentors/ucsb-cs56-pconrad-mentors.github.io/blob/master/_config.yml).  For example:
+
+```
+TBD
+```
 
 # Instructor Github Org Setup
 
