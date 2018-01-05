@@ -3,6 +3,9 @@ topic: "Week 0 Checklist"
 desc: "Tasks for Mentors, TAs, Instructors before quarter starts"
 ---
 
+# Instructor Setup for This Site
+
+1. Change the value of `current-quarter-github-org` in `_config.yml` of this repo, i.e. in TBD
 
 # Instructor Github Org Setup
 
