@@ -40,7 +40,7 @@ desc: "Tasks for Instructor before quarter starts"
    * Set default setting for course to "positive scoring".     
    * Add TAs and Reader
    * Add students by uploading Egrades Roster
-     
+
 1.  Add instructional staff with access to various accounts as shown in table below:
 
 
