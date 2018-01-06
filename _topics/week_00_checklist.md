@@ -5,7 +5,7 @@ desc: "Tasks for Instructor before quarter starts"
 
 # Instructor Setup Steps
 
-1. *Set value of `current-quarter-github-org` in `_config.yml`
+1. *Set value of `current-quarter-github-org` in `_config.yml`*
 
    Change the value of `current-quarter-github-org` 
    in 
