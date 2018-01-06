@@ -53,12 +53,18 @@ desc: "Tasks for Instructor before quarter starts"
    | Google Drive Folder | Y    |  Y    |
 
 
-   Github orgs
+# Github setup
+
+Github orgs
    
-   * <https://github.com/orgs/ucsb-cs56-pconrad-mentors/people>
-   * <https://github.com/orgs/ucsb-cs56-pconrad/people> 
-   * <https://github.com/orgs/ucsb-cs56-projects/people> 
-   * <https://github.com/orgs/{{site.current_qtr_github_org}}/people> 
+* <https://github.com/orgs/ucsb-cs56-pconrad-mentors/people>
+* <https://github.com/orgs/ucsb-cs56-pconrad/people> 
+* <https://github.com/orgs/ucsb-cs56-projects/people> 
+* <https://github.com/orgs/{{site.current_qtr_github_org}}/people> 
+
+# Github signup tool
+
+* Link to repo <https://github.com/project-anacapa/course-github-org-tool>
 
 
 
