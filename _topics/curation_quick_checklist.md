@@ -30,3 +30,4 @@ projects that have a meaningful purpose and reason to exist.
 6. Is the Javadoc published correctly (i.e. is there a clear, easy to identify link to the javadoc from the README.md), 
    and if not, is there an issue to address this?
  
+7.  NEW: Is there an [Issue Template](https://help.github.com/articles/creating-an-issue-template-for-your-repository/).  TODO: Come up with a standard issue template for CS56 projects.
