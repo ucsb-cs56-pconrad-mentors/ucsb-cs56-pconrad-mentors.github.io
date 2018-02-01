@@ -1,15 +1,18 @@
 ---
-topic: "Feedback: First-look-at-legacy-code-lab (F16 lab03)"
-desc: "How mentors handle the pull requests for F16 lab03"
-example_md_file: "F16_lab03.md"
+topic: "Feedback: First-look-at-legacy-code-lab (W18 proj00)"
+desc: "How mentors handle the pull requests for W18 proj00"
+example_md_file: "W18_proj00.md"
 ---
 
-# Handling pull request for first look at legacy code (e.g. F16 lab03)
+# Handling pull request for first look at legacy code (e.g. W18 proj00)
 
 These instructions pertain to:
 
 * [M16 lab02](https://ucsb-cs56-m16.github.io/lab/lab02/)
 * [F16 lab03](https://ucsb-cs56-f16.github.io/lab/lab03/)
+* [F17 lab03](https://ucsb-cs56-f17.github.io/lab/lab03/)
+* [W18 proj00](https://ucsb-cs56-w18.github.io/lab/proj00/)
+
 
 So, "accepting" or "not accepting" the pull request for this lab is your responsibility.  You should have the authority (meaning the github.com permissions) to do so.  If you don't, ask the TA or instructor to adjust the settings (or even a fellow mentor that does have access.)   As a mentor, you should be an "owner" of the UCSB-CS56-Projects organization.
 
