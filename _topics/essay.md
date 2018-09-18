@@ -1,6 +1,6 @@
 ---
 topic: "Essay"
-desc: "End of Quarter Essay for mentors earning CMPSC 192/196 credit"
+desc: "End of Quarter Essay for mentors earning CMPSC 190J credit"
 ---
 
 
