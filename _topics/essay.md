@@ -11,7 +11,7 @@ I suggest the following outline.   You may deviate from this if doing so would b
 
 1. Introduction
 
-    In this section, write a paragraph or two that introduces the context of your CS196 experience.   Describe CS56 in general terms, and describe the innovative aspects of the course that you were involved in (legacy code, github, code review).   Provide just enough detail
+    In this section, write a paragraph or two that introduces the context of your CS190J experience.   Describe CS56 in general terms, and describe the innovative aspects of the course that you were involved in (legacy code, github, code review).   Provide just enough detail
     that someone unfamiliar with CS56 will be able to understand the rest of your writeup.   The audience should be a CS faculty member or CS undergrad (a potential future moderator) that is not familiar with what we did in the course.
 
 2.  Your Role in the Course
